@@ -2458,3 +2458,21 @@
 [2019-06-26T16:36:38.274] [ERROR] DodgyTransactions2015.csv - Line 52 has invalid date
 [2019-06-26T16:36:38.276] [INFO] Transactions2012.xml - Starts reading from Transactions2012.xml
 [2019-06-26T16:36:47.946] [INFO] Transactions2013.json - Starts reading from Transactions2013.json
+[2019-06-26T16:55:47.947] [INFO] Transactions2014.csv - Starts reading from Transactions2014.csv
+[2019-06-26T16:55:47.969] [INFO] DodgyTransactions2015.csv - Starts reading from DodgyTransactions2015.csv
+[2019-06-26T16:55:47.972] [ERROR] DodgyTransactions2015.csv - Line 28 has invalid amount of money
+[2019-06-26T16:55:47.981] [ERROR] DodgyTransactions2015.csv - Line 52 has invalid date
+[2019-06-26T16:55:47.983] [INFO] Transactions2013.json - Starts reading from Transactions2013.json
+[2019-06-26T16:55:47.999] [INFO] Transactions2012.xml - Starts reading from Transactions2012.xml
+[2019-06-26T16:56:38.793] [INFO] Transactions2014.csv - Starts reading from Transactions2014.csv
+[2019-06-26T16:56:38.814] [INFO] DodgyTransactions2015.csv - Starts reading from DodgyTransactions2015.csv
+[2019-06-26T16:56:38.818] [ERROR] DodgyTransactions2015.csv - Line 28 has invalid amount of money
+[2019-06-26T16:56:38.827] [ERROR] DodgyTransactions2015.csv - Line 52 has invalid date
+[2019-06-26T16:56:38.829] [INFO] Transactions2013.json - Starts reading from Transactions2013.json
+[2019-06-26T16:56:38.845] [INFO] Transactions2012.xml - Starts reading from Transactions2012.xml
+[2019-06-26T16:57:27.995] [INFO] Transactions2014.csv - Starts reading from Transactions2014.csv
+[2019-06-26T16:57:28.025] [INFO] DodgyTransactions2015.csv - Starts reading from DodgyTransactions2015.csv
+[2019-06-26T16:57:28.030] [ERROR] DodgyTransactions2015.csv - Line 28 has invalid amount of money
+[2019-06-26T16:57:28.046] [ERROR] DodgyTransactions2015.csv - Line 52 has invalid date
+[2019-06-26T16:57:28.048] [INFO] Transactions2013.json - Starts reading from Transactions2013.json
+[2019-06-26T16:57:28.071] [INFO] Transactions2012.xml - Starts reading from Transactions2012.xml

@@ -80,12 +80,19 @@ console.log('Welcome to SupportBank');
 
 while(true)
 {
-    console.log("Type List All for balance of everyone, List [Name] for one's balance and list of transactions, Import File [Filename] to Import the transaction data and anything else to exit");
+    console.log("Type List All for balance of everyone, List [Name] for one's balance and list of transactions"
+    + " Import [Filename] to Import the transaction data, Export [Filename] to Export the transaction data as CSV and anything else to exit");
     var tmp = readlineSync.question('Now give an input: ');
     if(tmp.slice(0,7) == 'Import ')
     {
         curname = tmp.slice(7);
         ReadTransactionFile(curname,FindType(curname));
+        continue;
+    }
+    if(tmp.slice(0,7) == 'Export ')
+    {
+        curname = tmp.slice(7);
+        WriteTransactionFile(curname);
         continue;
     }
     if(tmp.length<5 || tmp.slice(0,5) != 'List ')
@@ -292,6 +299,20 @@ function ReadTransactionFile(FileName,Type)
     }
     CreateAccounts();
     ResetAccount();
+}
+
+// Read the file data from given file as CSV
+
+function WriteTransactionFile(FileName)
+{
+    FilePath = path.join(__dirname,'./',FileName);
+    var PrintableData = 'Date,From,To,Narrative,Amount';
+    for(i=0;i<TransactionData.length;i++)
+    {
+        PrintableData = PrintableData +
+        `\n${TransactionData[i].TrDate.format('DD-MM-YYYY')},${TransactionData[i].From},${TransactionData[i].To},${TransactionData[i].Narrative},${TransactionData[i].Amount}`;
+    }
+    fs.writeFileSync(FilePath,PrintableData);
 }
 
 // Resets the account so that it gets calculated later
