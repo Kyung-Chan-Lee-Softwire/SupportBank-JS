@@ -146,6 +146,30 @@ for(i=1;i<FileLine2.length;i++)
     TransactionData .push(new Transaction(moment(tmp[0],'DD-MM-YYYY'),tmp[1],tmp[2],tmp[3],Number(tmp[4])));
 }
 
+logger = log4js.getLogger(filename3);
+logger.info('Starts reading from '+ filename3);
+var Save3 = fs.readFileSync(filePath3, {encoding: 'utf-8'});
+
+var FileLine3 = JSON.parse(Save3);
+
+for(i=1;i<FileLine3.length;i++)
+{
+    if(!moment(FileLine3[i].Date,'YYYY-MM-DD').isValid())
+    {
+        logger.error(`Line ${i+1} has invalid date`);
+        console.log(`Line ${i+1} of ${filename3} is not processed. See Log for details`);
+        continue;
+    }
+    if(isNaN(FileLine3[i].Amount))
+    {
+        logger.error(`Line ${i+1} has invalid amount of money`);
+        console.log(`Line ${i+1} of ${filename3} is not processed. See Log for details`);
+        continue;
+    }
+    TransactionData .push(new Transaction(moment(FileLine3[i].Date,'YYYY-MM-DD'),
+    FileLine3[i].FromAccount,FileLine3[i].ToAccount,FileLine3[i].Narrative,Number(FileLine3[i].Amount)));
+}
+
 console.log('Welcome to SupportBank');
 
 for( i = 0; i < TransactionData.length; i++)
@@ -166,7 +190,7 @@ while(true)
 {
     console.log("Type List All for balance of everyone and List [Name] for one's balance and list of transactions and anything else to exit");
     var tmp = readlineSync.question('Now give an input: ');
-    if(tmp.length<5 && tmp.slice(0,5) != 'List ')
+    if(tmp.length<5 || tmp.slice(0,5) != 'List ')
     {
         break;
     }
