@@ -39,3 +39,12 @@
 [2019-06-26T10:15:15.094] [ERROR] DodgyTransactions2015.csv - Line 26 has invalid amount of money
 [2019-06-26T10:15:15.103] [ERROR] DodgyTransactions2015.csv - Line 50 has invalid date
 [2019-06-26T10:15:15.105] [ERROR] DodgyTransactions2015.csv - Line 51 has invalid format
+[2019-06-26T10:22:22.303] [INFO] Transactions2014.csv - Starts reading from Transactions2014.csv
+[2019-06-26T10:22:22.323] [INFO] DodgyTransactions2015.csv - Starts reading from DodgyTransactions2015.csv
+[2019-06-26T10:22:22.326] [ERROR] DodgyTransactions2015.csv - Line 26 has invalid amount of money
+[2019-06-26T10:22:22.335] [ERROR] DodgyTransactions2015.csv - Line 50 has invalid date
+[2019-06-26T10:22:22.336] [ERROR] DodgyTransactions2015.csv - Line 51 has invalid format
+[2019-06-26T11:44:19.674] [INFO] Transactions2014.csv - Starts reading from Transactions2014.csv
+[2019-06-26T11:44:19.704] [INFO] DodgyTransactions2015.csv - Starts reading from DodgyTransactions2015.csv
+[2019-06-26T11:44:19.709] [ERROR] DodgyTransactions2015.csv - Line 28 has invalid amount of money
+[2019-06-26T11:44:19.722] [ERROR] DodgyTransactions2015.csv - Line 52 has invalid date

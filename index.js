@@ -1,15 +1,15 @@
 const fs = require('fs');
 const path = require('path');
+const filename1 = 'Transactions2014.csv';
+const filename2 = 'DodgyTransactions2015.csv';
+const filename3 = 'Transactions2013.json';
 const filePath1 = path.join(__dirname,'./Transactions2014.csv');
 const filePath2 = path.join(__dirname,'./DodgyTransactions2015.csv');
+const filePath3 = path.join(__dirname,'./Transactions2013.json');
 const moment = require('moment');
 const readlineSync = require('readline-sync');
 var TransactionData = [];
 var Accounts = [];
-var Save1 = fs.readFileSync(filePath1, {encoding: 'utf-8'});
-var Save2 = fs.readFileSync(filePath2, {encoding: 'utf-8'});
-var FileLine1 = Save1.split("\n");
-var FileLine2 = Save2.split("\n");
 var log4js = require('log4js')
 var NameLog = [];
 
@@ -31,6 +31,7 @@ class Transaction
         this.To = To;
         this.Narrative = Narrative;
         this.Amount = Amount;
+        this.Processed = false;
     }
 }
 
@@ -40,7 +41,9 @@ class Account
     {
         this.name = name;
         this.money = 0;
-        this.updated = false;
+        this.Transaction = [];
+        this.updatedBalance = false;
+        this.updatedTransaction = false;
     }
     CalculateBalance(WholeTransactionList)
     {
@@ -56,16 +59,16 @@ class Account
                 money = money + WholeTransactionList[i].Amount;
             }
         }
-        this.updated = true;
+        this.updatedBalance = true;
         this.money = money;
         return;
     }
     PrintBalance(WholeTransactionList)
     {
-        if(!this.updated) this.CalculateBalance(WholeTransactionList);
+        if(!this.updatedBalance) this.CalculateBalance(WholeTransactionList);
         return this.money;
     }
-    PrintTransaction(WholeTransactionList)
+    UpdateTransaction(WholeTransactionList)
     {
         var ListTransaction = [];
         for(let i=0;i<WholeTransactionList.length;i++)
@@ -75,62 +78,69 @@ class Account
                 ListTransaction.push(WholeTransactionList[i]);
             }
         }
-        return ListTransaction;
+        this.Transaction = ListTransaction;
+        return;
+    }
+    PrintTransaction(WholeTransactionList)
+    {
+        if(!this.updatedTransaction) this.UpdateTransaction(WholeTransactionList);
+        return this.Transaction;
     }
 }
 
-
-var logger = log4js.getLogger('Transactions2014.csv');
-
-logger.info('Starts reading from Transactions2014.csv');
+var logger = log4js.getLogger(filename1);
+logger.info('Starts reading from '+ filename1);
+var Save1 = fs.readFileSync(filePath1, {encoding: 'utf-8'});
+var FileLine1 = Save1.split("\n");
 
 for(i=1;i<FileLine1.length;i++)
 {
     let tmp = FileLine1[i].split(',');
     if(tmp.length != 5)
     {
-        logger.error('Line ' + (i-1) + ' has invalid format');
-        console.log('Line '+ (i-1) + ' of Transactions2014.csv is not processed. See Log for details');
+        logger.error(`Line ${i+1} has invalid format`);
+        console.log(`Line ${i+1} of ${filename1} is not processed. See Log for details`);
         continue;
     }
     if(!moment(tmp[0],'DD-MM-YYYY').isValid())
     {
-        logger.error('Line ' + (i-1) + ' has invalid date');
-        console.log('Line '+ (i-1) + ' of Transactions2014.csv is not processed. See Log for details');
+        logger.error(`Line ${i+1} has invalid date`);
+        console.log(`Line ${i+1} of ${filename1} is not processed. See Log for details`);
         continue;
     }
     if(isNaN(tmp[4]))
     {
-        logger.error('Line ' + (i-1) + ' has invalid amount of money');
-        console.log('Line '+ (i-1) + ' of Transactions2014.csv is not processed. See Log for details');
+        logger.error(`Line ${i+1} has invalid amount of money`);
+        console.log(`Line ${i+1} of ${filename1} is not processed. See Log for details`);
         continue;
     }
     TransactionData .push(new Transaction(moment(tmp[0],'DD-MM-YYYY'),tmp[1],tmp[2],tmp[3],Number(tmp[4])));
 }
 
-logger = log4js.getLogger('DodgyTransactions2015.csv');
-
-logger.info('Starts reading from DodgyTransactions2015.csv');
+logger = log4js.getLogger(filename2);
+logger.info('Starts reading from '+ filename2);
+var Save2 = fs.readFileSync(filePath2, {encoding: 'utf-8'});
+var FileLine2 = Save2.split("\n");
 
 for(i=1;i<FileLine2.length;i++)
 {
     let tmp = FileLine2[i].split(',');
     if(tmp.length != 5)
     {
-        logger.error('Line ' + (i-1) + ' has invalid format');
-        console.log('Line '+ (i-1) + ' of DodgyTransactions2015.csv is not processed. See Log for details');
+        logger.error(`Line ${i+1} has invalid format`);
+        console.log(`Line ${i+1} of ${filename2} is not processed. See Log for details`);
         continue;
     }
     if(!moment(tmp[0],'DD-MM-YYYY').isValid())
     {
-        logger.error('Line ' + (i-1) + ' has invalid date');
-        console.log('Line '+ (i-1) + ' of DodgyTransactions2015.csv is not processed. See Log for details');
+        logger.error(`Line ${i+1} has invalid date`);
+        console.log(`Line ${i+1} of ${filename2} is not processed. See Log for details`);
         continue;
     }
     if(isNaN(tmp[4]))
     {
-        logger.error('Line ' + (i-1) + ' has invalid amount of money');
-        console.log('Line '+ (i-1) + ' of DodgyTransactions2015.csv is not processed. See Log for details');
+        logger.error(`Line ${i+1} has invalid amount of money`);
+        console.log(`Line ${i+1} of ${filename2} is not processed. See Log for details`);
         continue;
     }
     TransactionData .push(new Transaction(moment(tmp[0],'DD-MM-YYYY'),tmp[1],tmp[2],tmp[3],Number(tmp[4])));
