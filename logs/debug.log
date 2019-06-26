@@ -1729,3 +1729,680 @@
 [2019-06-26T14:24:46.737] [ERROR] DodgyTransactions2015.csv - Line 52 has invalid date
 [2019-06-26T14:24:46.738] [INFO] Transactions2013.json - Starts reading from Transactions2013.json
 [2019-06-26T14:24:46.761] [INFO] Transactions2012.xml - Starts reading from Transactions2012.xml
+[2019-06-26T14:29:15.159] [INFO] Transactions2014.csv - Starts reading from Transactions2014.csv
+[2019-06-26T14:29:15.181] [INFO] DodgyTransactions2015.csv - Starts reading from DodgyTransactions2015.csv
+[2019-06-26T14:29:15.184] [ERROR] DodgyTransactions2015.csv - Line 28 has invalid amount of money
+[2019-06-26T14:29:15.193] [ERROR] DodgyTransactions2015.csv - Line 52 has invalid date
+[2019-06-26T14:29:15.195] [INFO] Transactions2013.json - Starts reading from Transactions2013.json
+[2019-06-26T14:29:15.209] [INFO] Transactions2012.xml - Starts reading from Transactions2012.xml
+[2019-06-26T15:07:12.600] [INFO] Transactions2014.csv - Starts reading from Transactions2014.csv
+[2019-06-26T15:07:12.622] [INFO] DodgyTransactions2015.csv - Starts reading from DodgyTransactions2015.csv
+[2019-06-26T15:07:12.625] [ERROR] DodgyTransactions2015.csv - Line 28 has invalid amount of money
+[2019-06-26T15:07:12.635] [ERROR] DodgyTransactions2015.csv - Line 52 has invalid date
+[2019-06-26T15:07:12.637] [INFO] Transactions2013.json - Starts reading from Transactions2013.json
+[2019-06-26T15:07:12.658] [INFO] Transactions2012.xml - Starts reading from Transactions2012.xml
+[2019-06-26T15:08:50.995] [INFO] Transactions2014.csv - Starts reading from Transactions2014.csv
+[2019-06-26T15:08:51.017] [INFO] DodgyTransactions2015.csv - Starts reading from DodgyTransactions2015.csv
+[2019-06-26T15:08:51.020] [ERROR] DodgyTransactions2015.csv - Line 28 has invalid amount of money
+[2019-06-26T15:08:51.030] [ERROR] DodgyTransactions2015.csv - Line 52 has invalid date
+[2019-06-26T15:08:51.032] [INFO] Transactions2013.json - Starts reading from Transactions2013.json
+[2019-06-26T15:08:51.053] [INFO] Transactions2012.xml - Starts reading from Transactions2012.xml
+[2019-06-26T15:09:31.148] [INFO] Transactions2014.csv - Starts reading from Transactions2014.csv
+[2019-06-26T15:09:31.170] [INFO] DodgyTransactions2015.csv - Starts reading from DodgyTransactions2015.csv
+[2019-06-26T15:09:31.173] [ERROR] DodgyTransactions2015.csv - Line 28 has invalid amount of money
+[2019-06-26T15:09:31.184] [ERROR] DodgyTransactions2015.csv - Line 52 has invalid date
+[2019-06-26T15:09:31.185] [INFO] Transactions2013.json - Starts reading from Transactions2013.json
+[2019-06-26T15:09:31.206] [INFO] Transactions2012.xml - Starts reading from Transactions2012.xml
+[2019-06-26T15:09:57.109] [INFO] Transactions2014.csv - Starts reading from Transactions2014.csv
+[2019-06-26T15:09:57.138] [INFO] DodgyTransactions2015.csv - Starts reading from DodgyTransactions2015.csv
+[2019-06-26T15:09:57.142] [ERROR] DodgyTransactions2015.csv - Line 28 has invalid amount of money
+[2019-06-26T15:09:57.154] [ERROR] DodgyTransactions2015.csv - Line 52 has invalid date
+[2019-06-26T15:09:57.156] [INFO] Transactions2013.json - Starts reading from Transactions2013.json
+[2019-06-26T15:09:57.174] [INFO] Transactions2012.xml - Starts reading from Transactions2012.xml
+[2019-06-26T15:10:23.908] [INFO] Transactions2014.csv - Starts reading from Transactions2014.csv
+[2019-06-26T15:10:23.929] [INFO] DodgyTransactions2015.csv - Starts reading from DodgyTransactions2015.csv
+[2019-06-26T15:10:23.933] [ERROR] DodgyTransactions2015.csv - Line 28 has invalid amount of money
+[2019-06-26T15:10:23.943] [ERROR] DodgyTransactions2015.csv - Line 52 has invalid date
+[2019-06-26T15:10:23.944] [INFO] Transactions2013.json - Starts reading from Transactions2013.json
+[2019-06-26T15:10:23.959] [INFO] Transactions2012.xml - Starts reading from Transactions2012.xml
+[2019-06-26T15:28:41.558] [INFO] Transactions2014.csv - Starts reading from Transactions2014.csv
+[2019-06-26T15:28:41.580] [INFO] DodgyTransactions2015.csv - Starts reading from DodgyTransactions2015.csv
+[2019-06-26T15:28:41.588] [ERROR] DodgyTransactions2015.csv - Line 52 has invalid date
+[2019-06-26T15:28:41.593] [INFO] Transactions2013.json - Starts reading from Transactions2013.json
+[2019-06-26T15:28:41.595] [ERROR] Transactions2013.json - Line 2 has invalid date
+[2019-06-26T15:28:41.597] [ERROR] Transactions2013.json - Line 3 has invalid date
+[2019-06-26T15:28:41.598] [ERROR] Transactions2013.json - Line 4 has invalid date
+[2019-06-26T15:28:41.599] [ERROR] Transactions2013.json - Line 5 has invalid date
+[2019-06-26T15:28:41.600] [ERROR] Transactions2013.json - Line 6 has invalid date
+[2019-06-26T15:28:41.601] [ERROR] Transactions2013.json - Line 7 has invalid date
+[2019-06-26T15:28:41.602] [ERROR] Transactions2013.json - Line 8 has invalid date
+[2019-06-26T15:28:41.603] [ERROR] Transactions2013.json - Line 9 has invalid date
+[2019-06-26T15:28:41.605] [ERROR] Transactions2013.json - Line 10 has invalid date
+[2019-06-26T15:28:41.606] [ERROR] Transactions2013.json - Line 11 has invalid date
+[2019-06-26T15:28:41.607] [ERROR] Transactions2013.json - Line 12 has invalid date
+[2019-06-26T15:28:41.608] [ERROR] Transactions2013.json - Line 13 has invalid date
+[2019-06-26T15:28:41.609] [ERROR] Transactions2013.json - Line 14 has invalid date
+[2019-06-26T15:28:41.611] [ERROR] Transactions2013.json - Line 15 has invalid date
+[2019-06-26T15:28:41.611] [ERROR] Transactions2013.json - Line 16 has invalid date
+[2019-06-26T15:28:41.612] [ERROR] Transactions2013.json - Line 17 has invalid date
+[2019-06-26T15:28:41.613] [ERROR] Transactions2013.json - Line 18 has invalid date
+[2019-06-26T15:28:41.614] [ERROR] Transactions2013.json - Line 19 has invalid date
+[2019-06-26T15:28:41.615] [ERROR] Transactions2013.json - Line 20 has invalid date
+[2019-06-26T15:28:41.616] [ERROR] Transactions2013.json - Line 21 has invalid date
+[2019-06-26T15:28:41.617] [ERROR] Transactions2013.json - Line 22 has invalid date
+[2019-06-26T15:28:41.618] [ERROR] Transactions2013.json - Line 23 has invalid date
+[2019-06-26T15:28:41.619] [ERROR] Transactions2013.json - Line 24 has invalid date
+[2019-06-26T15:28:41.620] [ERROR] Transactions2013.json - Line 25 has invalid date
+[2019-06-26T15:28:41.621] [ERROR] Transactions2013.json - Line 26 has invalid date
+[2019-06-26T15:28:41.622] [ERROR] Transactions2013.json - Line 27 has invalid date
+[2019-06-26T15:28:41.623] [ERROR] Transactions2013.json - Line 28 has invalid date
+[2019-06-26T15:28:41.624] [ERROR] Transactions2013.json - Line 29 has invalid date
+[2019-06-26T15:28:41.625] [ERROR] Transactions2013.json - Line 30 has invalid date
+[2019-06-26T15:28:41.626] [ERROR] Transactions2013.json - Line 31 has invalid date
+[2019-06-26T15:28:41.627] [ERROR] Transactions2013.json - Line 32 has invalid date
+[2019-06-26T15:28:41.628] [ERROR] Transactions2013.json - Line 33 has invalid date
+[2019-06-26T15:28:41.629] [ERROR] Transactions2013.json - Line 34 has invalid date
+[2019-06-26T15:28:41.630] [ERROR] Transactions2013.json - Line 35 has invalid date
+[2019-06-26T15:28:41.632] [ERROR] Transactions2013.json - Line 36 has invalid date
+[2019-06-26T15:28:41.633] [ERROR] Transactions2013.json - Line 37 has invalid date
+[2019-06-26T15:28:41.634] [ERROR] Transactions2013.json - Line 38 has invalid date
+[2019-06-26T15:28:41.635] [ERROR] Transactions2013.json - Line 39 has invalid date
+[2019-06-26T15:28:41.637] [ERROR] Transactions2013.json - Line 40 has invalid date
+[2019-06-26T15:28:41.638] [ERROR] Transactions2013.json - Line 41 has invalid date
+[2019-06-26T15:28:41.639] [ERROR] Transactions2013.json - Line 42 has invalid date
+[2019-06-26T15:28:41.641] [ERROR] Transactions2013.json - Line 43 has invalid date
+[2019-06-26T15:28:41.642] [ERROR] Transactions2013.json - Line 44 has invalid date
+[2019-06-26T15:28:41.643] [ERROR] Transactions2013.json - Line 45 has invalid date
+[2019-06-26T15:28:41.644] [ERROR] Transactions2013.json - Line 46 has invalid date
+[2019-06-26T15:28:41.645] [ERROR] Transactions2013.json - Line 47 has invalid date
+[2019-06-26T15:28:41.646] [ERROR] Transactions2013.json - Line 48 has invalid date
+[2019-06-26T15:28:41.647] [ERROR] Transactions2013.json - Line 49 has invalid date
+[2019-06-26T15:28:41.648] [ERROR] Transactions2013.json - Line 50 has invalid date
+[2019-06-26T15:28:41.649] [ERROR] Transactions2013.json - Line 51 has invalid date
+[2019-06-26T15:28:41.650] [ERROR] Transactions2013.json - Line 52 has invalid date
+[2019-06-26T15:28:41.651] [ERROR] Transactions2013.json - Line 53 has invalid date
+[2019-06-26T15:28:41.653] [ERROR] Transactions2013.json - Line 54 has invalid date
+[2019-06-26T15:28:41.655] [ERROR] Transactions2013.json - Line 55 has invalid date
+[2019-06-26T15:28:41.656] [ERROR] Transactions2013.json - Line 56 has invalid date
+[2019-06-26T15:28:41.657] [ERROR] Transactions2013.json - Line 57 has invalid date
+[2019-06-26T15:28:41.659] [ERROR] Transactions2013.json - Line 58 has invalid date
+[2019-06-26T15:28:41.660] [ERROR] Transactions2013.json - Line 59 has invalid date
+[2019-06-26T15:28:41.661] [ERROR] Transactions2013.json - Line 60 has invalid date
+[2019-06-26T15:28:41.662] [ERROR] Transactions2013.json - Line 61 has invalid date
+[2019-06-26T15:28:41.663] [ERROR] Transactions2013.json - Line 62 has invalid date
+[2019-06-26T15:28:41.664] [ERROR] Transactions2013.json - Line 63 has invalid date
+[2019-06-26T15:28:41.665] [ERROR] Transactions2013.json - Line 64 has invalid date
+[2019-06-26T15:28:41.667] [ERROR] Transactions2013.json - Line 65 has invalid date
+[2019-06-26T15:28:41.668] [ERROR] Transactions2013.json - Line 66 has invalid date
+[2019-06-26T15:28:41.669] [ERROR] Transactions2013.json - Line 67 has invalid date
+[2019-06-26T15:28:41.671] [ERROR] Transactions2013.json - Line 68 has invalid date
+[2019-06-26T15:28:41.672] [ERROR] Transactions2013.json - Line 69 has invalid date
+[2019-06-26T15:28:41.673] [ERROR] Transactions2013.json - Line 70 has invalid date
+[2019-06-26T15:28:41.675] [ERROR] Transactions2013.json - Line 71 has invalid date
+[2019-06-26T15:28:41.676] [ERROR] Transactions2013.json - Line 72 has invalid date
+[2019-06-26T15:28:41.677] [ERROR] Transactions2013.json - Line 73 has invalid date
+[2019-06-26T15:28:41.679] [ERROR] Transactions2013.json - Line 74 has invalid date
+[2019-06-26T15:28:41.680] [ERROR] Transactions2013.json - Line 75 has invalid date
+[2019-06-26T15:28:41.681] [ERROR] Transactions2013.json - Line 76 has invalid date
+[2019-06-26T15:28:41.682] [ERROR] Transactions2013.json - Line 77 has invalid date
+[2019-06-26T15:28:41.683] [ERROR] Transactions2013.json - Line 78 has invalid date
+[2019-06-26T15:28:41.684] [ERROR] Transactions2013.json - Line 79 has invalid date
+[2019-06-26T15:28:41.685] [ERROR] Transactions2013.json - Line 80 has invalid date
+[2019-06-26T15:28:41.687] [ERROR] Transactions2013.json - Line 81 has invalid date
+[2019-06-26T15:28:41.689] [ERROR] Transactions2013.json - Line 82 has invalid date
+[2019-06-26T15:28:41.690] [ERROR] Transactions2013.json - Line 83 has invalid date
+[2019-06-26T15:28:41.691] [ERROR] Transactions2013.json - Line 84 has invalid date
+[2019-06-26T15:28:41.693] [ERROR] Transactions2013.json - Line 85 has invalid date
+[2019-06-26T15:28:41.694] [ERROR] Transactions2013.json - Line 86 has invalid date
+[2019-06-26T15:28:41.695] [ERROR] Transactions2013.json - Line 87 has invalid date
+[2019-06-26T15:28:41.696] [ERROR] Transactions2013.json - Line 88 has invalid date
+[2019-06-26T15:28:41.697] [ERROR] Transactions2013.json - Line 89 has invalid date
+[2019-06-26T15:28:41.698] [ERROR] Transactions2013.json - Line 90 has invalid date
+[2019-06-26T15:28:41.700] [ERROR] Transactions2013.json - Line 91 has invalid date
+[2019-06-26T15:28:41.701] [ERROR] Transactions2013.json - Line 92 has invalid date
+[2019-06-26T15:28:41.703] [ERROR] Transactions2013.json - Line 93 has invalid date
+[2019-06-26T15:28:41.704] [ERROR] Transactions2013.json - Line 94 has invalid date
+[2019-06-26T15:28:41.706] [ERROR] Transactions2013.json - Line 95 has invalid date
+[2019-06-26T15:28:41.707] [ERROR] Transactions2013.json - Line 96 has invalid date
+[2019-06-26T15:28:41.708] [ERROR] Transactions2013.json - Line 97 has invalid date
+[2019-06-26T15:28:41.709] [ERROR] Transactions2013.json - Line 98 has invalid date
+[2019-06-26T15:28:41.710] [ERROR] Transactions2013.json - Line 99 has invalid date
+[2019-06-26T15:28:41.711] [ERROR] Transactions2013.json - Line 100 has invalid date
+[2019-06-26T15:28:41.712] [ERROR] Transactions2013.json - Line 101 has invalid date
+[2019-06-26T15:28:41.713] [ERROR] Transactions2013.json - Line 102 has invalid date
+[2019-06-26T15:28:41.714] [ERROR] Transactions2013.json - Line 103 has invalid date
+[2019-06-26T15:28:41.715] [ERROR] Transactions2013.json - Line 104 has invalid date
+[2019-06-26T15:28:41.716] [ERROR] Transactions2013.json - Line 105 has invalid date
+[2019-06-26T15:28:41.718] [ERROR] Transactions2013.json - Line 106 has invalid date
+[2019-06-26T15:28:41.719] [ERROR] Transactions2013.json - Line 107 has invalid date
+[2019-06-26T15:28:41.721] [ERROR] Transactions2013.json - Line 108 has invalid date
+[2019-06-26T15:28:41.722] [ERROR] Transactions2013.json - Line 109 has invalid date
+[2019-06-26T15:28:41.724] [ERROR] Transactions2013.json - Line 110 has invalid date
+[2019-06-26T15:28:41.725] [ERROR] Transactions2013.json - Line 111 has invalid date
+[2019-06-26T15:28:41.726] [ERROR] Transactions2013.json - Line 112 has invalid date
+[2019-06-26T15:28:41.727] [ERROR] Transactions2013.json - Line 113 has invalid date
+[2019-06-26T15:28:41.728] [ERROR] Transactions2013.json - Line 114 has invalid date
+[2019-06-26T15:28:41.729] [ERROR] Transactions2013.json - Line 115 has invalid date
+[2019-06-26T15:28:41.730] [ERROR] Transactions2013.json - Line 116 has invalid date
+[2019-06-26T15:28:41.731] [ERROR] Transactions2013.json - Line 117 has invalid date
+[2019-06-26T15:28:41.732] [ERROR] Transactions2013.json - Line 118 has invalid date
+[2019-06-26T15:28:41.733] [ERROR] Transactions2013.json - Line 119 has invalid date
+[2019-06-26T15:28:41.734] [ERROR] Transactions2013.json - Line 120 has invalid date
+[2019-06-26T15:28:41.735] [ERROR] Transactions2013.json - Line 121 has invalid date
+[2019-06-26T15:28:41.737] [ERROR] Transactions2013.json - Line 122 has invalid date
+[2019-06-26T15:28:41.738] [ERROR] Transactions2013.json - Line 123 has invalid date
+[2019-06-26T15:28:41.740] [ERROR] Transactions2013.json - Line 124 has invalid date
+[2019-06-26T15:28:41.741] [ERROR] Transactions2013.json - Line 125 has invalid date
+[2019-06-26T15:28:41.742] [ERROR] Transactions2013.json - Line 126 has invalid date
+[2019-06-26T15:28:41.743] [ERROR] Transactions2013.json - Line 127 has invalid date
+[2019-06-26T15:28:41.744] [ERROR] Transactions2013.json - Line 128 has invalid date
+[2019-06-26T15:28:41.745] [ERROR] Transactions2013.json - Line 129 has invalid date
+[2019-06-26T15:28:41.746] [ERROR] Transactions2013.json - Line 130 has invalid date
+[2019-06-26T15:28:41.747] [ERROR] Transactions2013.json - Line 131 has invalid date
+[2019-06-26T15:28:41.749] [ERROR] Transactions2013.json - Line 132 has invalid date
+[2019-06-26T15:28:41.750] [ERROR] Transactions2013.json - Line 133 has invalid date
+[2019-06-26T15:28:41.751] [ERROR] Transactions2013.json - Line 134 has invalid date
+[2019-06-26T15:28:41.753] [ERROR] Transactions2013.json - Line 135 has invalid date
+[2019-06-26T15:28:41.754] [ERROR] Transactions2013.json - Line 136 has invalid date
+[2019-06-26T15:28:41.756] [ERROR] Transactions2013.json - Line 137 has invalid date
+[2019-06-26T15:28:41.757] [ERROR] Transactions2013.json - Line 138 has invalid date
+[2019-06-26T15:28:41.758] [ERROR] Transactions2013.json - Line 139 has invalid date
+[2019-06-26T15:28:41.759] [ERROR] Transactions2013.json - Line 140 has invalid date
+[2019-06-26T15:28:41.760] [ERROR] Transactions2013.json - Line 141 has invalid date
+[2019-06-26T15:28:41.761] [ERROR] Transactions2013.json - Line 142 has invalid date
+[2019-06-26T15:28:41.763] [ERROR] Transactions2013.json - Line 143 has invalid date
+[2019-06-26T15:28:41.764] [ERROR] Transactions2013.json - Line 144 has invalid date
+[2019-06-26T15:28:41.765] [ERROR] Transactions2013.json - Line 145 has invalid date
+[2019-06-26T15:28:41.766] [INFO] Transactions2012.xml - Starts reading from Transactions2012.xml
+[2019-06-26T15:29:57.982] [INFO] Transactions2014.csv - Starts reading from Transactions2014.csv
+[2019-06-26T15:29:58.006] [INFO] DodgyTransactions2015.csv - Starts reading from DodgyTransactions2015.csv
+[2019-06-26T15:29:58.014] [ERROR] DodgyTransactions2015.csv - Line 52 has invalid date
+[2019-06-26T15:29:58.020] [INFO] Transactions2013.json - Starts reading from Transactions2013.json
+[2019-06-26T15:29:58.023] [ERROR] Transactions2013.json - Line 2 has invalid date
+[2019-06-26T15:29:58.024] [ERROR] Transactions2013.json - Line 3 has invalid date
+[2019-06-26T15:29:58.025] [ERROR] Transactions2013.json - Line 4 has invalid date
+[2019-06-26T15:29:58.026] [ERROR] Transactions2013.json - Line 5 has invalid date
+[2019-06-26T15:29:58.027] [ERROR] Transactions2013.json - Line 6 has invalid date
+[2019-06-26T15:29:58.028] [ERROR] Transactions2013.json - Line 7 has invalid date
+[2019-06-26T15:29:58.029] [ERROR] Transactions2013.json - Line 8 has invalid date
+[2019-06-26T15:29:58.030] [ERROR] Transactions2013.json - Line 9 has invalid date
+[2019-06-26T15:29:58.031] [ERROR] Transactions2013.json - Line 10 has invalid date
+[2019-06-26T15:29:58.032] [ERROR] Transactions2013.json - Line 11 has invalid date
+[2019-06-26T15:29:58.033] [ERROR] Transactions2013.json - Line 12 has invalid date
+[2019-06-26T15:29:58.034] [ERROR] Transactions2013.json - Line 13 has invalid date
+[2019-06-26T15:29:58.034] [ERROR] Transactions2013.json - Line 14 has invalid date
+[2019-06-26T15:29:58.036] [ERROR] Transactions2013.json - Line 15 has invalid date
+[2019-06-26T15:29:58.037] [ERROR] Transactions2013.json - Line 16 has invalid date
+[2019-06-26T15:29:58.038] [ERROR] Transactions2013.json - Line 17 has invalid date
+[2019-06-26T15:29:58.038] [ERROR] Transactions2013.json - Line 18 has invalid date
+[2019-06-26T15:29:58.039] [ERROR] Transactions2013.json - Line 19 has invalid date
+[2019-06-26T15:29:58.040] [ERROR] Transactions2013.json - Line 20 has invalid date
+[2019-06-26T15:29:58.041] [ERROR] Transactions2013.json - Line 21 has invalid date
+[2019-06-26T15:29:58.042] [ERROR] Transactions2013.json - Line 22 has invalid date
+[2019-06-26T15:29:58.043] [ERROR] Transactions2013.json - Line 23 has invalid date
+[2019-06-26T15:29:58.044] [ERROR] Transactions2013.json - Line 24 has invalid date
+[2019-06-26T15:29:58.045] [ERROR] Transactions2013.json - Line 25 has invalid date
+[2019-06-26T15:29:58.045] [ERROR] Transactions2013.json - Line 26 has invalid date
+[2019-06-26T15:29:58.046] [ERROR] Transactions2013.json - Line 27 has invalid date
+[2019-06-26T15:29:58.047] [ERROR] Transactions2013.json - Line 28 has invalid date
+[2019-06-26T15:29:58.048] [ERROR] Transactions2013.json - Line 29 has invalid date
+[2019-06-26T15:29:58.049] [ERROR] Transactions2013.json - Line 30 has invalid date
+[2019-06-26T15:29:58.050] [ERROR] Transactions2013.json - Line 31 has invalid date
+[2019-06-26T15:29:58.052] [ERROR] Transactions2013.json - Line 32 has invalid date
+[2019-06-26T15:29:58.053] [ERROR] Transactions2013.json - Line 33 has invalid date
+[2019-06-26T15:29:58.055] [ERROR] Transactions2013.json - Line 34 has invalid date
+[2019-06-26T15:29:58.056] [ERROR] Transactions2013.json - Line 35 has invalid date
+[2019-06-26T15:29:58.057] [ERROR] Transactions2013.json - Line 36 has invalid date
+[2019-06-26T15:29:58.058] [ERROR] Transactions2013.json - Line 37 has invalid date
+[2019-06-26T15:29:58.059] [ERROR] Transactions2013.json - Line 38 has invalid date
+[2019-06-26T15:29:58.061] [ERROR] Transactions2013.json - Line 39 has invalid date
+[2019-06-26T15:29:58.062] [ERROR] Transactions2013.json - Line 40 has invalid date
+[2019-06-26T15:29:58.063] [ERROR] Transactions2013.json - Line 41 has invalid date
+[2019-06-26T15:29:58.064] [ERROR] Transactions2013.json - Line 42 has invalid date
+[2019-06-26T15:29:58.065] [ERROR] Transactions2013.json - Line 43 has invalid date
+[2019-06-26T15:29:58.066] [ERROR] Transactions2013.json - Line 44 has invalid date
+[2019-06-26T15:29:58.067] [ERROR] Transactions2013.json - Line 45 has invalid date
+[2019-06-26T15:29:58.069] [ERROR] Transactions2013.json - Line 46 has invalid date
+[2019-06-26T15:29:58.070] [ERROR] Transactions2013.json - Line 47 has invalid date
+[2019-06-26T15:29:58.071] [ERROR] Transactions2013.json - Line 48 has invalid date
+[2019-06-26T15:29:58.073] [ERROR] Transactions2013.json - Line 49 has invalid date
+[2019-06-26T15:29:58.074] [ERROR] Transactions2013.json - Line 50 has invalid date
+[2019-06-26T15:29:58.075] [ERROR] Transactions2013.json - Line 51 has invalid date
+[2019-06-26T15:29:58.076] [ERROR] Transactions2013.json - Line 52 has invalid date
+[2019-06-26T15:29:58.077] [ERROR] Transactions2013.json - Line 53 has invalid date
+[2019-06-26T15:29:58.078] [ERROR] Transactions2013.json - Line 54 has invalid date
+[2019-06-26T15:29:58.079] [ERROR] Transactions2013.json - Line 55 has invalid date
+[2019-06-26T15:29:58.080] [ERROR] Transactions2013.json - Line 56 has invalid date
+[2019-06-26T15:29:58.081] [ERROR] Transactions2013.json - Line 57 has invalid date
+[2019-06-26T15:29:58.082] [ERROR] Transactions2013.json - Line 58 has invalid date
+[2019-06-26T15:29:58.084] [ERROR] Transactions2013.json - Line 59 has invalid date
+[2019-06-26T15:29:58.086] [ERROR] Transactions2013.json - Line 60 has invalid date
+[2019-06-26T15:29:58.087] [ERROR] Transactions2013.json - Line 61 has invalid date
+[2019-06-26T15:29:58.088] [ERROR] Transactions2013.json - Line 62 has invalid date
+[2019-06-26T15:29:58.089] [ERROR] Transactions2013.json - Line 63 has invalid date
+[2019-06-26T15:29:58.091] [ERROR] Transactions2013.json - Line 64 has invalid date
+[2019-06-26T15:29:58.092] [ERROR] Transactions2013.json - Line 65 has invalid date
+[2019-06-26T15:29:58.093] [ERROR] Transactions2013.json - Line 66 has invalid date
+[2019-06-26T15:29:58.094] [ERROR] Transactions2013.json - Line 67 has invalid date
+[2019-06-26T15:29:58.095] [ERROR] Transactions2013.json - Line 68 has invalid date
+[2019-06-26T15:29:58.097] [ERROR] Transactions2013.json - Line 69 has invalid date
+[2019-06-26T15:29:58.098] [ERROR] Transactions2013.json - Line 70 has invalid date
+[2019-06-26T15:29:58.099] [ERROR] Transactions2013.json - Line 71 has invalid date
+[2019-06-26T15:29:58.100] [ERROR] Transactions2013.json - Line 72 has invalid date
+[2019-06-26T15:29:58.101] [ERROR] Transactions2013.json - Line 73 has invalid date
+[2019-06-26T15:29:58.103] [ERROR] Transactions2013.json - Line 74 has invalid date
+[2019-06-26T15:29:58.104] [ERROR] Transactions2013.json - Line 75 has invalid date
+[2019-06-26T15:29:58.106] [ERROR] Transactions2013.json - Line 76 has invalid date
+[2019-06-26T15:29:58.107] [ERROR] Transactions2013.json - Line 77 has invalid date
+[2019-06-26T15:29:58.108] [ERROR] Transactions2013.json - Line 78 has invalid date
+[2019-06-26T15:29:58.109] [ERROR] Transactions2013.json - Line 79 has invalid date
+[2019-06-26T15:29:58.110] [ERROR] Transactions2013.json - Line 80 has invalid date
+[2019-06-26T15:29:58.111] [ERROR] Transactions2013.json - Line 81 has invalid date
+[2019-06-26T15:29:58.112] [ERROR] Transactions2013.json - Line 82 has invalid date
+[2019-06-26T15:29:58.114] [ERROR] Transactions2013.json - Line 83 has invalid date
+[2019-06-26T15:29:58.115] [ERROR] Transactions2013.json - Line 84 has invalid date
+[2019-06-26T15:29:58.116] [ERROR] Transactions2013.json - Line 85 has invalid date
+[2019-06-26T15:29:58.119] [ERROR] Transactions2013.json - Line 86 has invalid date
+[2019-06-26T15:29:58.120] [ERROR] Transactions2013.json - Line 87 has invalid date
+[2019-06-26T15:29:58.121] [ERROR] Transactions2013.json - Line 88 has invalid date
+[2019-06-26T15:29:58.123] [ERROR] Transactions2013.json - Line 89 has invalid date
+[2019-06-26T15:29:58.124] [ERROR] Transactions2013.json - Line 90 has invalid date
+[2019-06-26T15:29:58.125] [ERROR] Transactions2013.json - Line 91 has invalid date
+[2019-06-26T15:29:58.126] [ERROR] Transactions2013.json - Line 92 has invalid date
+[2019-06-26T15:29:58.128] [ERROR] Transactions2013.json - Line 93 has invalid date
+[2019-06-26T15:29:58.129] [ERROR] Transactions2013.json - Line 94 has invalid date
+[2019-06-26T15:29:58.130] [ERROR] Transactions2013.json - Line 95 has invalid date
+[2019-06-26T15:29:58.131] [ERROR] Transactions2013.json - Line 96 has invalid date
+[2019-06-26T15:29:58.132] [ERROR] Transactions2013.json - Line 97 has invalid date
+[2019-06-26T15:29:58.133] [ERROR] Transactions2013.json - Line 98 has invalid date
+[2019-06-26T15:29:58.135] [ERROR] Transactions2013.json - Line 99 has invalid date
+[2019-06-26T15:29:58.137] [ERROR] Transactions2013.json - Line 100 has invalid date
+[2019-06-26T15:29:58.138] [ERROR] Transactions2013.json - Line 101 has invalid date
+[2019-06-26T15:29:58.140] [ERROR] Transactions2013.json - Line 102 has invalid date
+[2019-06-26T15:29:58.141] [ERROR] Transactions2013.json - Line 103 has invalid date
+[2019-06-26T15:29:58.142] [ERROR] Transactions2013.json - Line 104 has invalid date
+[2019-06-26T15:29:58.143] [ERROR] Transactions2013.json - Line 105 has invalid date
+[2019-06-26T15:29:58.144] [ERROR] Transactions2013.json - Line 106 has invalid date
+[2019-06-26T15:29:58.145] [ERROR] Transactions2013.json - Line 107 has invalid date
+[2019-06-26T15:29:58.146] [ERROR] Transactions2013.json - Line 108 has invalid date
+[2019-06-26T15:29:58.148] [ERROR] Transactions2013.json - Line 109 has invalid date
+[2019-06-26T15:29:58.149] [ERROR] Transactions2013.json - Line 110 has invalid date
+[2019-06-26T15:29:58.150] [ERROR] Transactions2013.json - Line 111 has invalid date
+[2019-06-26T15:29:58.151] [ERROR] Transactions2013.json - Line 112 has invalid date
+[2019-06-26T15:29:58.152] [ERROR] Transactions2013.json - Line 113 has invalid date
+[2019-06-26T15:29:58.153] [ERROR] Transactions2013.json - Line 114 has invalid date
+[2019-06-26T15:29:58.155] [ERROR] Transactions2013.json - Line 115 has invalid date
+[2019-06-26T15:29:58.156] [ERROR] Transactions2013.json - Line 116 has invalid date
+[2019-06-26T15:29:58.157] [ERROR] Transactions2013.json - Line 117 has invalid date
+[2019-06-26T15:29:58.158] [ERROR] Transactions2013.json - Line 118 has invalid date
+[2019-06-26T15:29:58.159] [ERROR] Transactions2013.json - Line 119 has invalid date
+[2019-06-26T15:29:58.160] [ERROR] Transactions2013.json - Line 120 has invalid date
+[2019-06-26T15:29:58.161] [ERROR] Transactions2013.json - Line 121 has invalid date
+[2019-06-26T15:29:58.163] [ERROR] Transactions2013.json - Line 122 has invalid date
+[2019-06-26T15:29:58.164] [ERROR] Transactions2013.json - Line 123 has invalid date
+[2019-06-26T15:29:58.165] [ERROR] Transactions2013.json - Line 124 has invalid date
+[2019-06-26T15:29:58.166] [ERROR] Transactions2013.json - Line 125 has invalid date
+[2019-06-26T15:29:58.167] [ERROR] Transactions2013.json - Line 126 has invalid date
+[2019-06-26T15:29:58.168] [ERROR] Transactions2013.json - Line 127 has invalid date
+[2019-06-26T15:29:58.170] [ERROR] Transactions2013.json - Line 128 has invalid date
+[2019-06-26T15:29:58.171] [ERROR] Transactions2013.json - Line 129 has invalid date
+[2019-06-26T15:29:58.173] [ERROR] Transactions2013.json - Line 130 has invalid date
+[2019-06-26T15:29:58.174] [ERROR] Transactions2013.json - Line 131 has invalid date
+[2019-06-26T15:29:58.175] [ERROR] Transactions2013.json - Line 132 has invalid date
+[2019-06-26T15:29:58.176] [ERROR] Transactions2013.json - Line 133 has invalid date
+[2019-06-26T15:29:58.177] [ERROR] Transactions2013.json - Line 134 has invalid date
+[2019-06-26T15:29:58.178] [ERROR] Transactions2013.json - Line 135 has invalid date
+[2019-06-26T15:29:58.180] [ERROR] Transactions2013.json - Line 136 has invalid date
+[2019-06-26T15:29:58.181] [ERROR] Transactions2013.json - Line 137 has invalid date
+[2019-06-26T15:29:58.182] [ERROR] Transactions2013.json - Line 138 has invalid date
+[2019-06-26T15:29:58.183] [ERROR] Transactions2013.json - Line 139 has invalid date
+[2019-06-26T15:29:58.185] [ERROR] Transactions2013.json - Line 140 has invalid date
+[2019-06-26T15:29:58.187] [ERROR] Transactions2013.json - Line 141 has invalid date
+[2019-06-26T15:29:58.188] [ERROR] Transactions2013.json - Line 142 has invalid date
+[2019-06-26T15:29:58.190] [ERROR] Transactions2013.json - Line 143 has invalid date
+[2019-06-26T15:29:58.191] [ERROR] Transactions2013.json - Line 144 has invalid date
+[2019-06-26T15:29:58.192] [ERROR] Transactions2013.json - Line 145 has invalid date
+[2019-06-26T15:29:58.193] [INFO] Transactions2012.xml - Starts reading from Transactions2012.xml
+[2019-06-26T15:31:33.587] [INFO] Transactions2014.csv - Starts reading from Transactions2014.csv
+[2019-06-26T15:31:33.610] [INFO] DodgyTransactions2015.csv - Starts reading from DodgyTransactions2015.csv
+[2019-06-26T15:31:33.613] [ERROR] DodgyTransactions2015.csv - Line 28 has invalid amount of money
+[2019-06-26T15:31:33.621] [ERROR] DodgyTransactions2015.csv - Line 52 has invalid date
+[2019-06-26T15:31:33.623] [INFO] Transactions2013.json - Starts reading from Transactions2013.json
+[2019-06-26T15:31:33.626] [ERROR] Transactions2013.json - Line 2 has invalid date
+[2019-06-26T15:31:33.627] [ERROR] Transactions2013.json - Line 3 has invalid date
+[2019-06-26T15:31:33.629] [ERROR] Transactions2013.json - Line 4 has invalid date
+[2019-06-26T15:31:33.631] [ERROR] Transactions2013.json - Line 5 has invalid date
+[2019-06-26T15:31:33.632] [ERROR] Transactions2013.json - Line 6 has invalid date
+[2019-06-26T15:31:33.634] [ERROR] Transactions2013.json - Line 7 has invalid date
+[2019-06-26T15:31:33.636] [ERROR] Transactions2013.json - Line 8 has invalid date
+[2019-06-26T15:31:33.638] [ERROR] Transactions2013.json - Line 9 has invalid date
+[2019-06-26T15:31:33.641] [ERROR] Transactions2013.json - Line 10 has invalid date
+[2019-06-26T15:31:33.643] [ERROR] Transactions2013.json - Line 11 has invalid date
+[2019-06-26T15:31:33.645] [ERROR] Transactions2013.json - Line 12 has invalid date
+[2019-06-26T15:31:33.647] [ERROR] Transactions2013.json - Line 13 has invalid date
+[2019-06-26T15:31:33.649] [ERROR] Transactions2013.json - Line 14 has invalid date
+[2019-06-26T15:31:33.650] [ERROR] Transactions2013.json - Line 15 has invalid date
+[2019-06-26T15:31:33.652] [ERROR] Transactions2013.json - Line 16 has invalid date
+[2019-06-26T15:31:33.653] [ERROR] Transactions2013.json - Line 17 has invalid date
+[2019-06-26T15:31:33.655] [ERROR] Transactions2013.json - Line 18 has invalid date
+[2019-06-26T15:31:33.657] [ERROR] Transactions2013.json - Line 19 has invalid date
+[2019-06-26T15:31:33.659] [ERROR] Transactions2013.json - Line 20 has invalid date
+[2019-06-26T15:31:33.661] [ERROR] Transactions2013.json - Line 21 has invalid date
+[2019-06-26T15:31:33.663] [ERROR] Transactions2013.json - Line 22 has invalid date
+[2019-06-26T15:31:33.664] [ERROR] Transactions2013.json - Line 23 has invalid date
+[2019-06-26T15:31:33.666] [ERROR] Transactions2013.json - Line 24 has invalid date
+[2019-06-26T15:31:33.668] [ERROR] Transactions2013.json - Line 25 has invalid date
+[2019-06-26T15:31:33.670] [ERROR] Transactions2013.json - Line 26 has invalid date
+[2019-06-26T15:31:33.672] [ERROR] Transactions2013.json - Line 27 has invalid date
+[2019-06-26T15:31:33.674] [ERROR] Transactions2013.json - Line 28 has invalid date
+[2019-06-26T15:31:33.677] [ERROR] Transactions2013.json - Line 29 has invalid date
+[2019-06-26T15:31:33.679] [ERROR] Transactions2013.json - Line 30 has invalid date
+[2019-06-26T15:31:33.680] [ERROR] Transactions2013.json - Line 31 has invalid date
+[2019-06-26T15:31:33.683] [ERROR] Transactions2013.json - Line 32 has invalid date
+[2019-06-26T15:31:33.685] [ERROR] Transactions2013.json - Line 33 has invalid date
+[2019-06-26T15:31:33.689] [ERROR] Transactions2013.json - Line 34 has invalid date
+[2019-06-26T15:31:33.691] [ERROR] Transactions2013.json - Line 35 has invalid date
+[2019-06-26T15:31:33.693] [ERROR] Transactions2013.json - Line 36 has invalid date
+[2019-06-26T15:31:33.694] [ERROR] Transactions2013.json - Line 37 has invalid date
+[2019-06-26T15:31:33.697] [ERROR] Transactions2013.json - Line 38 has invalid date
+[2019-06-26T15:31:33.700] [ERROR] Transactions2013.json - Line 39 has invalid date
+[2019-06-26T15:31:33.702] [ERROR] Transactions2013.json - Line 40 has invalid date
+[2019-06-26T15:31:33.705] [ERROR] Transactions2013.json - Line 41 has invalid date
+[2019-06-26T15:31:33.708] [ERROR] Transactions2013.json - Line 42 has invalid date
+[2019-06-26T15:31:33.711] [ERROR] Transactions2013.json - Line 43 has invalid date
+[2019-06-26T15:31:33.713] [ERROR] Transactions2013.json - Line 44 has invalid date
+[2019-06-26T15:31:33.715] [ERROR] Transactions2013.json - Line 45 has invalid date
+[2019-06-26T15:31:33.718] [ERROR] Transactions2013.json - Line 46 has invalid date
+[2019-06-26T15:31:33.720] [ERROR] Transactions2013.json - Line 47 has invalid date
+[2019-06-26T15:31:33.722] [ERROR] Transactions2013.json - Line 48 has invalid date
+[2019-06-26T15:31:33.726] [ERROR] Transactions2013.json - Line 49 has invalid date
+[2019-06-26T15:31:33.728] [ERROR] Transactions2013.json - Line 50 has invalid date
+[2019-06-26T15:31:33.731] [ERROR] Transactions2013.json - Line 51 has invalid date
+[2019-06-26T15:31:33.733] [ERROR] Transactions2013.json - Line 52 has invalid date
+[2019-06-26T15:31:33.734] [ERROR] Transactions2013.json - Line 53 has invalid date
+[2019-06-26T15:31:33.736] [ERROR] Transactions2013.json - Line 54 has invalid date
+[2019-06-26T15:31:33.738] [ERROR] Transactions2013.json - Line 55 has invalid date
+[2019-06-26T15:31:33.740] [ERROR] Transactions2013.json - Line 56 has invalid date
+[2019-06-26T15:31:33.742] [ERROR] Transactions2013.json - Line 57 has invalid date
+[2019-06-26T15:31:33.744] [ERROR] Transactions2013.json - Line 58 has invalid date
+[2019-06-26T15:31:33.746] [ERROR] Transactions2013.json - Line 59 has invalid date
+[2019-06-26T15:31:33.747] [ERROR] Transactions2013.json - Line 60 has invalid date
+[2019-06-26T15:31:33.749] [ERROR] Transactions2013.json - Line 61 has invalid date
+[2019-06-26T15:31:33.750] [ERROR] Transactions2013.json - Line 62 has invalid date
+[2019-06-26T15:31:33.752] [ERROR] Transactions2013.json - Line 63 has invalid date
+[2019-06-26T15:31:33.754] [ERROR] Transactions2013.json - Line 64 has invalid date
+[2019-06-26T15:31:33.756] [ERROR] Transactions2013.json - Line 65 has invalid date
+[2019-06-26T15:31:33.758] [ERROR] Transactions2013.json - Line 66 has invalid date
+[2019-06-26T15:31:33.760] [ERROR] Transactions2013.json - Line 67 has invalid date
+[2019-06-26T15:31:33.762] [ERROR] Transactions2013.json - Line 68 has invalid date
+[2019-06-26T15:31:33.763] [ERROR] Transactions2013.json - Line 69 has invalid date
+[2019-06-26T15:31:33.765] [ERROR] Transactions2013.json - Line 70 has invalid date
+[2019-06-26T15:31:33.766] [ERROR] Transactions2013.json - Line 71 has invalid date
+[2019-06-26T15:31:33.768] [ERROR] Transactions2013.json - Line 72 has invalid date
+[2019-06-26T15:31:33.769] [ERROR] Transactions2013.json - Line 73 has invalid date
+[2019-06-26T15:31:33.771] [ERROR] Transactions2013.json - Line 74 has invalid date
+[2019-06-26T15:31:33.772] [ERROR] Transactions2013.json - Line 75 has invalid date
+[2019-06-26T15:31:33.773] [ERROR] Transactions2013.json - Line 76 has invalid date
+[2019-06-26T15:31:33.775] [ERROR] Transactions2013.json - Line 77 has invalid date
+[2019-06-26T15:31:33.777] [ERROR] Transactions2013.json - Line 78 has invalid date
+[2019-06-26T15:31:33.778] [ERROR] Transactions2013.json - Line 79 has invalid date
+[2019-06-26T15:31:33.780] [ERROR] Transactions2013.json - Line 80 has invalid date
+[2019-06-26T15:31:33.782] [ERROR] Transactions2013.json - Line 81 has invalid date
+[2019-06-26T15:31:33.783] [ERROR] Transactions2013.json - Line 82 has invalid date
+[2019-06-26T15:31:33.785] [ERROR] Transactions2013.json - Line 83 has invalid date
+[2019-06-26T15:31:33.786] [ERROR] Transactions2013.json - Line 84 has invalid date
+[2019-06-26T15:31:33.788] [ERROR] Transactions2013.json - Line 85 has invalid date
+[2019-06-26T15:31:33.791] [ERROR] Transactions2013.json - Line 86 has invalid date
+[2019-06-26T15:31:33.794] [ERROR] Transactions2013.json - Line 87 has invalid date
+[2019-06-26T15:31:33.796] [ERROR] Transactions2013.json - Line 88 has invalid date
+[2019-06-26T15:31:33.798] [ERROR] Transactions2013.json - Line 89 has invalid date
+[2019-06-26T15:31:33.800] [ERROR] Transactions2013.json - Line 90 has invalid date
+[2019-06-26T15:31:33.801] [ERROR] Transactions2013.json - Line 91 has invalid date
+[2019-06-26T15:31:33.802] [ERROR] Transactions2013.json - Line 92 has invalid date
+[2019-06-26T15:31:33.804] [ERROR] Transactions2013.json - Line 93 has invalid date
+[2019-06-26T15:31:33.806] [ERROR] Transactions2013.json - Line 94 has invalid date
+[2019-06-26T15:31:33.808] [ERROR] Transactions2013.json - Line 95 has invalid date
+[2019-06-26T15:31:33.809] [ERROR] Transactions2013.json - Line 96 has invalid date
+[2019-06-26T15:31:33.811] [ERROR] Transactions2013.json - Line 97 has invalid date
+[2019-06-26T15:31:33.813] [ERROR] Transactions2013.json - Line 98 has invalid date
+[2019-06-26T15:31:33.815] [ERROR] Transactions2013.json - Line 99 has invalid date
+[2019-06-26T15:31:33.816] [ERROR] Transactions2013.json - Line 100 has invalid date
+[2019-06-26T15:31:33.817] [ERROR] Transactions2013.json - Line 101 has invalid date
+[2019-06-26T15:31:33.819] [ERROR] Transactions2013.json - Line 102 has invalid date
+[2019-06-26T15:31:33.820] [ERROR] Transactions2013.json - Line 103 has invalid date
+[2019-06-26T15:31:33.822] [ERROR] Transactions2013.json - Line 104 has invalid date
+[2019-06-26T15:31:33.825] [ERROR] Transactions2013.json - Line 105 has invalid date
+[2019-06-26T15:31:33.828] [ERROR] Transactions2013.json - Line 106 has invalid date
+[2019-06-26T15:31:33.830] [ERROR] Transactions2013.json - Line 107 has invalid date
+[2019-06-26T15:31:33.831] [ERROR] Transactions2013.json - Line 108 has invalid date
+[2019-06-26T15:31:33.832] [ERROR] Transactions2013.json - Line 109 has invalid date
+[2019-06-26T15:31:33.834] [ERROR] Transactions2013.json - Line 110 has invalid date
+[2019-06-26T15:31:33.836] [ERROR] Transactions2013.json - Line 111 has invalid date
+[2019-06-26T15:31:33.838] [ERROR] Transactions2013.json - Line 112 has invalid date
+[2019-06-26T15:31:33.840] [ERROR] Transactions2013.json - Line 113 has invalid date
+[2019-06-26T15:31:33.844] [ERROR] Transactions2013.json - Line 114 has invalid date
+[2019-06-26T15:31:33.846] [ERROR] Transactions2013.json - Line 115 has invalid date
+[2019-06-26T15:31:33.847] [ERROR] Transactions2013.json - Line 116 has invalid date
+[2019-06-26T15:31:33.849] [ERROR] Transactions2013.json - Line 117 has invalid date
+[2019-06-26T15:31:33.850] [ERROR] Transactions2013.json - Line 118 has invalid date
+[2019-06-26T15:31:33.852] [ERROR] Transactions2013.json - Line 119 has invalid date
+[2019-06-26T15:31:33.854] [ERROR] Transactions2013.json - Line 120 has invalid date
+[2019-06-26T15:31:33.856] [ERROR] Transactions2013.json - Line 121 has invalid date
+[2019-06-26T15:31:33.859] [ERROR] Transactions2013.json - Line 122 has invalid date
+[2019-06-26T15:31:33.861] [ERROR] Transactions2013.json - Line 123 has invalid date
+[2019-06-26T15:31:33.863] [ERROR] Transactions2013.json - Line 124 has invalid date
+[2019-06-26T15:31:33.865] [ERROR] Transactions2013.json - Line 125 has invalid date
+[2019-06-26T15:31:33.866] [ERROR] Transactions2013.json - Line 126 has invalid date
+[2019-06-26T15:31:33.867] [ERROR] Transactions2013.json - Line 127 has invalid date
+[2019-06-26T15:31:33.868] [ERROR] Transactions2013.json - Line 128 has invalid date
+[2019-06-26T15:31:33.870] [ERROR] Transactions2013.json - Line 129 has invalid date
+[2019-06-26T15:31:33.872] [ERROR] Transactions2013.json - Line 130 has invalid date
+[2019-06-26T15:31:33.874] [ERROR] Transactions2013.json - Line 131 has invalid date
+[2019-06-26T15:31:33.877] [ERROR] Transactions2013.json - Line 132 has invalid date
+[2019-06-26T15:31:33.879] [ERROR] Transactions2013.json - Line 133 has invalid date
+[2019-06-26T15:31:33.881] [ERROR] Transactions2013.json - Line 134 has invalid date
+[2019-06-26T15:31:33.883] [ERROR] Transactions2013.json - Line 135 has invalid date
+[2019-06-26T15:31:33.884] [ERROR] Transactions2013.json - Line 136 has invalid date
+[2019-06-26T15:31:33.886] [ERROR] Transactions2013.json - Line 137 has invalid date
+[2019-06-26T15:31:33.887] [ERROR] Transactions2013.json - Line 138 has invalid date
+[2019-06-26T15:31:33.890] [ERROR] Transactions2013.json - Line 139 has invalid date
+[2019-06-26T15:31:33.894] [ERROR] Transactions2013.json - Line 140 has invalid date
+[2019-06-26T15:31:33.896] [ERROR] Transactions2013.json - Line 141 has invalid date
+[2019-06-26T15:31:33.898] [ERROR] Transactions2013.json - Line 142 has invalid date
+[2019-06-26T15:31:33.900] [ERROR] Transactions2013.json - Line 143 has invalid date
+[2019-06-26T15:31:33.901] [ERROR] Transactions2013.json - Line 144 has invalid date
+[2019-06-26T15:31:33.903] [ERROR] Transactions2013.json - Line 145 has invalid date
+[2019-06-26T15:31:33.904] [INFO] Transactions2012.xml - Starts reading from Transactions2012.xml
+[2019-06-26T15:31:39.141] [INFO] Transactions2014.csv - Starts reading from Transactions2014.csv
+[2019-06-26T15:31:39.162] [INFO] DodgyTransactions2015.csv - Starts reading from DodgyTransactions2015.csv
+[2019-06-26T15:31:39.165] [ERROR] DodgyTransactions2015.csv - Line 28 has invalid amount of money
+[2019-06-26T15:31:39.174] [ERROR] DodgyTransactions2015.csv - Line 52 has invalid date
+[2019-06-26T15:31:39.175] [INFO] Transactions2013.json - Starts reading from Transactions2013.json
+[2019-06-26T15:31:39.178] [ERROR] Transactions2013.json - Line 2 has invalid date
+[2019-06-26T15:31:39.179] [ERROR] Transactions2013.json - Line 3 has invalid date
+[2019-06-26T15:31:39.180] [ERROR] Transactions2013.json - Line 4 has invalid date
+[2019-06-26T15:31:39.181] [ERROR] Transactions2013.json - Line 5 has invalid date
+[2019-06-26T15:31:39.182] [ERROR] Transactions2013.json - Line 6 has invalid date
+[2019-06-26T15:31:39.183] [ERROR] Transactions2013.json - Line 7 has invalid date
+[2019-06-26T15:31:39.183] [ERROR] Transactions2013.json - Line 8 has invalid date
+[2019-06-26T15:31:39.184] [ERROR] Transactions2013.json - Line 9 has invalid date
+[2019-06-26T15:31:39.186] [ERROR] Transactions2013.json - Line 10 has invalid date
+[2019-06-26T15:31:39.187] [ERROR] Transactions2013.json - Line 11 has invalid date
+[2019-06-26T15:31:39.188] [ERROR] Transactions2013.json - Line 12 has invalid date
+[2019-06-26T15:31:39.189] [ERROR] Transactions2013.json - Line 13 has invalid date
+[2019-06-26T15:31:39.190] [ERROR] Transactions2013.json - Line 14 has invalid date
+[2019-06-26T15:31:39.192] [ERROR] Transactions2013.json - Line 15 has invalid date
+[2019-06-26T15:31:39.193] [ERROR] Transactions2013.json - Line 16 has invalid date
+[2019-06-26T15:31:39.194] [ERROR] Transactions2013.json - Line 17 has invalid date
+[2019-06-26T15:31:39.195] [ERROR] Transactions2013.json - Line 18 has invalid date
+[2019-06-26T15:31:39.196] [ERROR] Transactions2013.json - Line 19 has invalid date
+[2019-06-26T15:31:39.197] [ERROR] Transactions2013.json - Line 20 has invalid date
+[2019-06-26T15:31:39.198] [ERROR] Transactions2013.json - Line 21 has invalid date
+[2019-06-26T15:31:39.199] [ERROR] Transactions2013.json - Line 22 has invalid date
+[2019-06-26T15:31:39.199] [ERROR] Transactions2013.json - Line 23 has invalid date
+[2019-06-26T15:31:39.200] [ERROR] Transactions2013.json - Line 24 has invalid date
+[2019-06-26T15:31:39.201] [ERROR] Transactions2013.json - Line 25 has invalid date
+[2019-06-26T15:31:39.202] [ERROR] Transactions2013.json - Line 26 has invalid date
+[2019-06-26T15:31:39.203] [ERROR] Transactions2013.json - Line 27 has invalid date
+[2019-06-26T15:31:39.205] [ERROR] Transactions2013.json - Line 28 has invalid date
+[2019-06-26T15:31:39.206] [ERROR] Transactions2013.json - Line 29 has invalid date
+[2019-06-26T15:31:39.207] [ERROR] Transactions2013.json - Line 30 has invalid date
+[2019-06-26T15:31:39.208] [ERROR] Transactions2013.json - Line 31 has invalid date
+[2019-06-26T15:31:39.209] [ERROR] Transactions2013.json - Line 32 has invalid date
+[2019-06-26T15:31:39.210] [ERROR] Transactions2013.json - Line 33 has invalid date
+[2019-06-26T15:31:39.211] [ERROR] Transactions2013.json - Line 34 has invalid date
+[2019-06-26T15:31:39.212] [ERROR] Transactions2013.json - Line 35 has invalid date
+[2019-06-26T15:31:39.213] [ERROR] Transactions2013.json - Line 36 has invalid date
+[2019-06-26T15:31:39.214] [ERROR] Transactions2013.json - Line 37 has invalid date
+[2019-06-26T15:31:39.216] [ERROR] Transactions2013.json - Line 38 has invalid date
+[2019-06-26T15:31:39.217] [ERROR] Transactions2013.json - Line 39 has invalid date
+[2019-06-26T15:31:39.218] [ERROR] Transactions2013.json - Line 40 has invalid date
+[2019-06-26T15:31:39.219] [ERROR] Transactions2013.json - Line 41 has invalid date
+[2019-06-26T15:31:39.221] [ERROR] Transactions2013.json - Line 42 has invalid date
+[2019-06-26T15:31:39.222] [ERROR] Transactions2013.json - Line 43 has invalid date
+[2019-06-26T15:31:39.223] [ERROR] Transactions2013.json - Line 44 has invalid date
+[2019-06-26T15:31:39.225] [ERROR] Transactions2013.json - Line 45 has invalid date
+[2019-06-26T15:31:39.226] [ERROR] Transactions2013.json - Line 46 has invalid date
+[2019-06-26T15:31:39.227] [ERROR] Transactions2013.json - Line 47 has invalid date
+[2019-06-26T15:31:39.228] [ERROR] Transactions2013.json - Line 48 has invalid date
+[2019-06-26T15:31:39.229] [ERROR] Transactions2013.json - Line 49 has invalid date
+[2019-06-26T15:31:39.230] [ERROR] Transactions2013.json - Line 50 has invalid date
+[2019-06-26T15:31:39.231] [ERROR] Transactions2013.json - Line 51 has invalid date
+[2019-06-26T15:31:39.232] [ERROR] Transactions2013.json - Line 52 has invalid date
+[2019-06-26T15:31:39.233] [ERROR] Transactions2013.json - Line 53 has invalid date
+[2019-06-26T15:31:39.235] [ERROR] Transactions2013.json - Line 54 has invalid date
+[2019-06-26T15:31:39.236] [ERROR] Transactions2013.json - Line 55 has invalid date
+[2019-06-26T15:31:39.238] [ERROR] Transactions2013.json - Line 56 has invalid date
+[2019-06-26T15:31:39.240] [ERROR] Transactions2013.json - Line 57 has invalid date
+[2019-06-26T15:31:39.241] [ERROR] Transactions2013.json - Line 58 has invalid date
+[2019-06-26T15:31:39.242] [ERROR] Transactions2013.json - Line 59 has invalid date
+[2019-06-26T15:31:39.243] [ERROR] Transactions2013.json - Line 60 has invalid date
+[2019-06-26T15:31:39.244] [ERROR] Transactions2013.json - Line 61 has invalid date
+[2019-06-26T15:31:39.245] [ERROR] Transactions2013.json - Line 62 has invalid date
+[2019-06-26T15:31:39.246] [ERROR] Transactions2013.json - Line 63 has invalid date
+[2019-06-26T15:31:39.247] [ERROR] Transactions2013.json - Line 64 has invalid date
+[2019-06-26T15:31:39.248] [ERROR] Transactions2013.json - Line 65 has invalid date
+[2019-06-26T15:31:39.249] [ERROR] Transactions2013.json - Line 66 has invalid date
+[2019-06-26T15:31:39.250] [ERROR] Transactions2013.json - Line 67 has invalid date
+[2019-06-26T15:31:39.251] [ERROR] Transactions2013.json - Line 68 has invalid date
+[2019-06-26T15:31:39.252] [ERROR] Transactions2013.json - Line 69 has invalid date
+[2019-06-26T15:31:39.254] [ERROR] Transactions2013.json - Line 70 has invalid date
+[2019-06-26T15:31:39.256] [ERROR] Transactions2013.json - Line 71 has invalid date
+[2019-06-26T15:31:39.257] [ERROR] Transactions2013.json - Line 72 has invalid date
+[2019-06-26T15:31:39.258] [ERROR] Transactions2013.json - Line 73 has invalid date
+[2019-06-26T15:31:39.260] [ERROR] Transactions2013.json - Line 74 has invalid date
+[2019-06-26T15:31:39.261] [ERROR] Transactions2013.json - Line 75 has invalid date
+[2019-06-26T15:31:39.262] [ERROR] Transactions2013.json - Line 76 has invalid date
+[2019-06-26T15:31:39.263] [ERROR] Transactions2013.json - Line 77 has invalid date
+[2019-06-26T15:31:39.264] [ERROR] Transactions2013.json - Line 78 has invalid date
+[2019-06-26T15:31:39.265] [ERROR] Transactions2013.json - Line 79 has invalid date
+[2019-06-26T15:31:39.266] [ERROR] Transactions2013.json - Line 80 has invalid date
+[2019-06-26T15:31:39.267] [ERROR] Transactions2013.json - Line 81 has invalid date
+[2019-06-26T15:31:39.268] [ERROR] Transactions2013.json - Line 82 has invalid date
+[2019-06-26T15:31:39.269] [ERROR] Transactions2013.json - Line 83 has invalid date
+[2019-06-26T15:31:39.271] [ERROR] Transactions2013.json - Line 84 has invalid date
+[2019-06-26T15:31:39.273] [ERROR] Transactions2013.json - Line 85 has invalid date
+[2019-06-26T15:31:39.274] [ERROR] Transactions2013.json - Line 86 has invalid date
+[2019-06-26T15:31:39.276] [ERROR] Transactions2013.json - Line 87 has invalid date
+[2019-06-26T15:31:39.277] [ERROR] Transactions2013.json - Line 88 has invalid date
+[2019-06-26T15:31:39.278] [ERROR] Transactions2013.json - Line 89 has invalid date
+[2019-06-26T15:31:39.279] [ERROR] Transactions2013.json - Line 90 has invalid date
+[2019-06-26T15:31:39.280] [ERROR] Transactions2013.json - Line 91 has invalid date
+[2019-06-26T15:31:39.282] [ERROR] Transactions2013.json - Line 92 has invalid date
+[2019-06-26T15:31:39.283] [ERROR] Transactions2013.json - Line 93 has invalid date
+[2019-06-26T15:31:39.284] [ERROR] Transactions2013.json - Line 94 has invalid date
+[2019-06-26T15:31:39.286] [ERROR] Transactions2013.json - Line 95 has invalid date
+[2019-06-26T15:31:39.287] [ERROR] Transactions2013.json - Line 96 has invalid date
+[2019-06-26T15:31:39.289] [ERROR] Transactions2013.json - Line 97 has invalid date
+[2019-06-26T15:31:39.290] [ERROR] Transactions2013.json - Line 98 has invalid date
+[2019-06-26T15:31:39.292] [ERROR] Transactions2013.json - Line 99 has invalid date
+[2019-06-26T15:31:39.293] [ERROR] Transactions2013.json - Line 100 has invalid date
+[2019-06-26T15:31:39.294] [ERROR] Transactions2013.json - Line 101 has invalid date
+[2019-06-26T15:31:39.295] [ERROR] Transactions2013.json - Line 102 has invalid date
+[2019-06-26T15:31:39.297] [ERROR] Transactions2013.json - Line 103 has invalid date
+[2019-06-26T15:31:39.298] [ERROR] Transactions2013.json - Line 104 has invalid date
+[2019-06-26T15:31:39.300] [ERROR] Transactions2013.json - Line 105 has invalid date
+[2019-06-26T15:31:39.302] [ERROR] Transactions2013.json - Line 106 has invalid date
+[2019-06-26T15:31:39.304] [ERROR] Transactions2013.json - Line 107 has invalid date
+[2019-06-26T15:31:39.305] [ERROR] Transactions2013.json - Line 108 has invalid date
+[2019-06-26T15:31:39.306] [ERROR] Transactions2013.json - Line 109 has invalid date
+[2019-06-26T15:31:39.307] [ERROR] Transactions2013.json - Line 110 has invalid date
+[2019-06-26T15:31:39.309] [ERROR] Transactions2013.json - Line 111 has invalid date
+[2019-06-26T15:31:39.310] [ERROR] Transactions2013.json - Line 112 has invalid date
+[2019-06-26T15:31:39.311] [ERROR] Transactions2013.json - Line 113 has invalid date
+[2019-06-26T15:31:39.312] [ERROR] Transactions2013.json - Line 114 has invalid date
+[2019-06-26T15:31:39.313] [ERROR] Transactions2013.json - Line 115 has invalid date
+[2019-06-26T15:31:39.314] [ERROR] Transactions2013.json - Line 116 has invalid date
+[2019-06-26T15:31:39.315] [ERROR] Transactions2013.json - Line 117 has invalid date
+[2019-06-26T15:31:39.316] [ERROR] Transactions2013.json - Line 118 has invalid date
+[2019-06-26T15:31:39.317] [ERROR] Transactions2013.json - Line 119 has invalid date
+[2019-06-26T15:31:39.318] [ERROR] Transactions2013.json - Line 120 has invalid date
+[2019-06-26T15:31:39.319] [ERROR] Transactions2013.json - Line 121 has invalid date
+[2019-06-26T15:31:39.320] [ERROR] Transactions2013.json - Line 122 has invalid date
+[2019-06-26T15:31:39.321] [ERROR] Transactions2013.json - Line 123 has invalid date
+[2019-06-26T15:31:39.323] [ERROR] Transactions2013.json - Line 124 has invalid date
+[2019-06-26T15:31:39.324] [ERROR] Transactions2013.json - Line 125 has invalid date
+[2019-06-26T15:31:39.325] [ERROR] Transactions2013.json - Line 126 has invalid date
+[2019-06-26T15:31:39.326] [ERROR] Transactions2013.json - Line 127 has invalid date
+[2019-06-26T15:31:39.327] [ERROR] Transactions2013.json - Line 128 has invalid date
+[2019-06-26T15:31:39.328] [ERROR] Transactions2013.json - Line 129 has invalid date
+[2019-06-26T15:31:39.329] [ERROR] Transactions2013.json - Line 130 has invalid date
+[2019-06-26T15:31:39.330] [ERROR] Transactions2013.json - Line 131 has invalid date
+[2019-06-26T15:31:39.331] [ERROR] Transactions2013.json - Line 132 has invalid date
+[2019-06-26T15:31:39.332] [ERROR] Transactions2013.json - Line 133 has invalid date
+[2019-06-26T15:31:39.333] [ERROR] Transactions2013.json - Line 134 has invalid date
+[2019-06-26T15:31:39.334] [ERROR] Transactions2013.json - Line 135 has invalid date
+[2019-06-26T15:31:39.335] [ERROR] Transactions2013.json - Line 136 has invalid date
+[2019-06-26T15:31:39.337] [ERROR] Transactions2013.json - Line 137 has invalid date
+[2019-06-26T15:31:39.339] [ERROR] Transactions2013.json - Line 138 has invalid date
+[2019-06-26T15:31:39.340] [ERROR] Transactions2013.json - Line 139 has invalid date
+[2019-06-26T15:31:39.341] [ERROR] Transactions2013.json - Line 140 has invalid date
+[2019-06-26T15:31:39.342] [ERROR] Transactions2013.json - Line 141 has invalid date
+[2019-06-26T15:31:39.343] [ERROR] Transactions2013.json - Line 142 has invalid date
+[2019-06-26T15:31:39.344] [ERROR] Transactions2013.json - Line 143 has invalid date
+[2019-06-26T15:31:39.345] [ERROR] Transactions2013.json - Line 144 has invalid date
+[2019-06-26T15:31:39.346] [ERROR] Transactions2013.json - Line 145 has invalid date
+[2019-06-26T15:31:39.347] [INFO] Transactions2012.xml - Starts reading from Transactions2012.xml
+[2019-06-26T15:31:56.999] [INFO] Transactions2014.csv - Starts reading from Transactions2014.csv
+[2019-06-26T15:31:57.020] [INFO] DodgyTransactions2015.csv - Starts reading from DodgyTransactions2015.csv
+[2019-06-26T15:31:57.023] [ERROR] DodgyTransactions2015.csv - Line 28 has invalid amount of money
+[2019-06-26T15:31:57.032] [ERROR] DodgyTransactions2015.csv - Line 52 has invalid date
+[2019-06-26T15:31:57.034] [INFO] Transactions2013.json - Starts reading from Transactions2013.json
+[2019-06-26T15:31:57.049] [INFO] Transactions2012.xml - Starts reading from Transactions2012.xml
+[2019-06-26T15:42:57.289] [INFO] Transactions2014.csv - Starts reading from Transactions2014.csv
+[2019-06-26T15:42:57.316] [INFO] DodgyTransactions2015.csv - Starts reading from DodgyTransactions2015.csv
+[2019-06-26T15:42:57.320] [ERROR] DodgyTransactions2015.csv - Line 28 has invalid amount of money
+[2019-06-26T15:42:57.333] [ERROR] DodgyTransactions2015.csv - Line 52 has invalid date
+[2019-06-26T15:42:57.334] [INFO] Transactions2013.json - Starts reading from Transactions2013.json
+[2019-06-26T15:42:57.360] [INFO] Transactions2012.xml - Starts reading from Transactions2012.xml
+[2019-06-26T15:44:23.365] [INFO] Transactions2014.csv - Starts reading from Transactions2014.csv
+[2019-06-26T15:44:23.388] [INFO] DodgyTransactions2015.csv - Starts reading from DodgyTransactions2015.csv
+[2019-06-26T15:44:23.392] [ERROR] DodgyTransactions2015.csv - Line 28 has invalid amount of money
+[2019-06-26T15:44:23.402] [ERROR] DodgyTransactions2015.csv - Line 52 has invalid date
+[2019-06-26T15:44:23.404] [INFO] Transactions2013.json - Starts reading from Transactions2013.json
+[2019-06-26T15:44:23.423] [INFO] Transactions2012.xml - Starts reading from Transactions2012.xml
+[2019-06-26T15:47:00.852] [INFO] Transactions2014.csv - Starts reading from Transactions2014.csv
+[2019-06-26T15:48:53.102] [INFO] Transactions2014.csv - Starts reading from Transactions2014.csv
+[2019-06-26T15:48:53.126] [INFO] DodgyTransactions2015.csv - Starts reading from DodgyTransactions2015.csv
+[2019-06-26T15:48:53.130] [ERROR] DodgyTransactions2015.csv - Line 28 has invalid amount of money
+[2019-06-26T15:48:53.139] [ERROR] DodgyTransactions2015.csv - Line 52 has invalid date
+[2019-06-26T15:48:53.141] [INFO] Transactions2013.json - Starts reading from Transactions2013.json
+[2019-06-26T15:48:53.158] [INFO] Transactions2012.xml - Starts reading from Transactions2012.xml
+[2019-06-26T15:50:47.192] [INFO] Transactions2014.csv - Starts reading from Transactions2014.csv
+[2019-06-26T15:50:47.215] [INFO] DodgyTransactions2015.csv - Starts reading from DodgyTransactions2015.csv
+[2019-06-26T15:50:47.218] [ERROR] DodgyTransactions2015.csv - Line 28 has invalid amount of money
+[2019-06-26T15:50:47.230] [ERROR] DodgyTransactions2015.csv - Line 52 has invalid date
+[2019-06-26T15:50:47.232] [INFO] Transactions2013.json - Starts reading from Transactions2013.json
+[2019-06-26T15:50:47.248] [INFO] Transactions2012.xml - Starts reading from Transactions2012.xml
+[2019-06-26T15:53:02.364] [INFO] Transactions2014.csv - Starts reading from Transactions2014.csv
+[2019-06-26T15:53:02.387] [INFO] DodgyTransactions2015.csv - Starts reading from DodgyTransactions2015.csv
+[2019-06-26T15:53:02.391] [ERROR] DodgyTransactions2015.csv - Line 28 has invalid amount of money
+[2019-06-26T15:53:02.402] [ERROR] DodgyTransactions2015.csv - Line 52 has invalid date
+[2019-06-26T15:53:02.404] [INFO] Transactions2013.json - Starts reading from Transactions2013.json
+[2019-06-26T15:53:02.423] [INFO] Transactions2012.xml - Starts reading from Transactions2012.xml
+[2019-06-26T15:56:20.686] [INFO] Transactions2014.csv - Starts reading from Transactions2014.csv
+[2019-06-26T15:56:20.707] [INFO] DodgyTransactions2015.csv - Starts reading from DodgyTransactions2015.csv
+[2019-06-26T15:56:20.710] [ERROR] DodgyTransactions2015.csv - Line 28 has invalid amount of money
+[2019-06-26T15:56:20.719] [ERROR] DodgyTransactions2015.csv - Line 52 has invalid date
+[2019-06-26T15:56:20.721] [INFO] Transactions2013.json - Starts reading from Transactions2013.json
+[2019-06-26T15:56:20.739] [INFO] Transactions2012.xml - Starts reading from Transactions2012.xml
