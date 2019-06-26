@@ -1,0 +1,41 @@
+[2019-06-26T10:10:56.878] [TRACE] Transactions2014.csv - Starts reading from Transactions2014.csv
+[2019-06-26T10:10:56.898] [TRACE] DodgyTransactions2015.csv - Starts reading from DodgyTransactions2015.csv
+[2019-06-26T10:10:56.900] [ERROR] DodgyTransactions2015.csv - Line 26 has invalid amount of money
+[2019-06-26T10:10:56.909] [ERROR] DodgyTransactions2015.csv - Line 50 has invalid date
+[2019-06-26T10:10:56.910] [ERROR] DodgyTransactions2015.csv - Line 51 has invalid format
+[2019-06-26T10:11:48.670] [TRACE] Transactions2014.csv - Starts reading from Transactions2014.csv
+[2019-06-26T10:11:48.692] [TRACE] DodgyTransactions2015.csv - Starts reading from DodgyTransactions2015.csv
+[2019-06-26T10:11:48.695] [ERROR] DodgyTransactions2015.csv - Line 26 has invalid amount of money
+[2019-06-26T10:11:48.703] [ERROR] DodgyTransactions2015.csv - Line 50 has invalid date
+[2019-06-26T10:11:48.704] [ERROR] DodgyTransactions2015.csv - Line 51 has invalid format
+[2019-06-26T10:11:53.429] [TRACE] Transactions2014.csv - Starts reading from Transactions2014.csv
+[2019-06-26T10:11:53.452] [TRACE] DodgyTransactions2015.csv - Starts reading from DodgyTransactions2015.csv
+[2019-06-26T10:11:53.455] [ERROR] DodgyTransactions2015.csv - Line 26 has invalid amount of money
+[2019-06-26T10:11:53.464] [ERROR] DodgyTransactions2015.csv - Line 50 has invalid date
+[2019-06-26T10:11:53.465] [ERROR] DodgyTransactions2015.csv - Line 51 has invalid format
+[2019-06-26T10:12:02.114] [TRACE] Transactions2014.csv - Starts reading from Transactions2014.csv
+[2019-06-26T10:12:02.136] [TRACE] DodgyTransactions2015.csv - Starts reading from DodgyTransactions2015.csv
+[2019-06-26T10:12:02.139] [ERROR] DodgyTransactions2015.csv - Line 26 has invalid amount of money
+[2019-06-26T10:12:02.147] [ERROR] DodgyTransactions2015.csv - Line 50 has invalid date
+[2019-06-26T10:12:02.148] [ERROR] DodgyTransactions2015.csv - Line 51 has invalid format
+[2019-06-26T10:12:11.723] [TRACE] Transactions2014.csv - Starts reading from Transactions2014.csv
+[2019-06-26T10:12:11.743] [TRACE] DodgyTransactions2015.csv - Starts reading from DodgyTransactions2015.csv
+[2019-06-26T10:12:11.748] [ERROR] DodgyTransactions2015.csv - Line 26 has invalid amount of money
+[2019-06-26T10:12:11.755] [ERROR] DodgyTransactions2015.csv - Line 50 has invalid date
+[2019-06-26T10:12:11.757] [ERROR] DodgyTransactions2015.csv - Line 51 has invalid format
+[2019-06-26T10:12:56.491] [TRACE] Transactions2014.csv - Starts reading from Transactions2014.csv
+[2019-06-26T10:12:56.511] [TRACE] DodgyTransactions2015.csv - Starts reading from DodgyTransactions2015.csv
+[2019-06-26T10:12:56.514] [ERROR] DodgyTransactions2015.csv - Line 26 has invalid amount of money
+[2019-06-26T10:12:56.523] [ERROR] DodgyTransactions2015.csv - Line 50 has invalid date
+[2019-06-26T10:12:56.524] [ERROR] DodgyTransactions2015.csv - Line 51 has invalid format
+[2019-06-26T10:13:27.348] [ERROR] DodgyTransactions2015.csv - Line 26 has invalid amount of money
+[2019-06-26T10:13:27.359] [ERROR] DodgyTransactions2015.csv - Line 50 has invalid date
+[2019-06-26T10:13:27.361] [ERROR] DodgyTransactions2015.csv - Line 51 has invalid format
+[2019-06-26T10:13:53.080] [ERROR] DodgyTransactions2015.csv - Line 26 has invalid amount of money
+[2019-06-26T10:13:53.093] [ERROR] DodgyTransactions2015.csv - Line 50 has invalid date
+[2019-06-26T10:13:53.094] [ERROR] DodgyTransactions2015.csv - Line 51 has invalid format
+[2019-06-26T10:15:15.071] [INFO] Transactions2014.csv - Starts reading from Transactions2014.csv
+[2019-06-26T10:15:15.091] [INFO] DodgyTransactions2015.csv - Starts reading from DodgyTransactions2015.csv
+[2019-06-26T10:15:15.094] [ERROR] DodgyTransactions2015.csv - Line 26 has invalid amount of money
+[2019-06-26T10:15:15.103] [ERROR] DodgyTransactions2015.csv - Line 50 has invalid date
+[2019-06-26T10:15:15.105] [ERROR] DodgyTransactions2015.csv - Line 51 has invalid format
