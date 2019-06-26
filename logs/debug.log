@@ -2406,3 +2406,55 @@
 [2019-06-26T15:56:20.719] [ERROR] DodgyTransactions2015.csv - Line 52 has invalid date
 [2019-06-26T15:56:20.721] [INFO] Transactions2013.json - Starts reading from Transactions2013.json
 [2019-06-26T15:56:20.739] [INFO] Transactions2012.xml - Starts reading from Transactions2012.xml
+[2019-06-26T16:22:07.394] [INFO] Transactions2014.csv - Starts reading from Transactions2014.csv
+[2019-06-26T16:22:07.414] [INFO] DodgyTransactions2015.csv - Starts reading from DodgyTransactions2015.csv
+[2019-06-26T16:22:07.417] [ERROR] DodgyTransactions2015.csv - Line 28 has invalid amount of money
+[2019-06-26T16:22:07.426] [ERROR] DodgyTransactions2015.csv - Line 52 has invalid date
+[2019-06-26T16:22:07.427] [INFO] Transactions2013.json - Starts reading from Transactions2013.json
+[2019-06-26T16:22:07.441] [INFO] Transactions2012.xml - Starts reading from Transactions2012.xml
+[2019-06-26T16:23:02.662] [INFO] Transactions2014.csv - Starts reading from Transactions2014.csv
+[2019-06-26T16:23:02.683] [INFO] DodgyTransactions2015.csv - Starts reading from DodgyTransactions2015.csv
+[2019-06-26T16:23:02.701] [INFO] Transactions2013.json - Starts reading from Transactions2013.json
+[2019-06-26T16:23:02.717] [INFO] Transactions2012.xml - Starts reading from Transactions2012.xml
+[2019-06-26T16:23:59.396] [INFO] Transactions2014.csv - Starts reading from Transactions2014.csv
+[2019-06-26T16:23:59.417] [INFO] DodgyTransactions2015.csv - Starts reading from DodgyTransactions2015.csv
+[2019-06-26T16:23:59.420] [ERROR] DodgyTransactions2015.csv - Line 28 has invalid amount of money
+[2019-06-26T16:23:59.429] [ERROR] DodgyTransactions2015.csv - Line 52 has invalid date
+[2019-06-26T16:23:59.430] [INFO] Transactions2013.json - Starts reading from Transactions2013.json
+[2019-06-26T16:23:59.444] [INFO] Transactions2012.xml - Starts reading from Transactions2012.xml
+[2019-06-26T16:26:37.899] [INFO] Transactions2014.csv - Starts reading from Transactions2014.csv
+[2019-06-26T16:26:37.919] [INFO] DodgyTransactions2015.csv - Starts reading from DodgyTransactions2015.csv
+[2019-06-26T16:26:37.922] [ERROR] DodgyTransactions2015.csv - Line 28 has invalid amount of money
+[2019-06-26T16:26:37.931] [ERROR] DodgyTransactions2015.csv - Line 52 has invalid date
+[2019-06-26T16:26:37.932] [INFO] Transactions2013.json - Starts reading from Transactions2013.json
+[2019-06-26T16:26:37.947] [INFO] Transactions2012.xml - Starts reading from Transactions2012.xml
+[2019-06-26T16:27:54.027] [INFO] Transactions2014.csv - Starts reading from Transactions2014.csv
+[2019-06-26T16:27:54.049] [INFO] DodgyTransactions2015.csv - Starts reading from DodgyTransactions2015.csv
+[2019-06-26T16:27:54.052] [ERROR] DodgyTransactions2015.csv - Line 28 has invalid amount of money
+[2019-06-26T16:27:54.061] [ERROR] DodgyTransactions2015.csv - Line 52 has invalid date
+[2019-06-26T16:27:54.063] [INFO] Transactions2013.json - Starts reading from Transactions2013.json
+[2019-06-26T16:27:54.077] [INFO] Transactions2012.xml - Starts reading from Transactions2012.xml
+[2019-06-26T16:27:54.129] [INFO] Transactions2012.xml - Starts reading from Transactions2012.xml
+[2019-06-26T16:28:52.636] [INFO] Transactions2014.csv - Starts reading from Transactions2014.csv
+[2019-06-26T16:28:52.656] [INFO] DodgyTransactions2015.csv - Starts reading from DodgyTransactions2015.csv
+[2019-06-26T16:28:52.660] [ERROR] DodgyTransactions2015.csv - Line 28 has invalid amount of money
+[2019-06-26T16:28:52.669] [ERROR] DodgyTransactions2015.csv - Line 52 has invalid date
+[2019-06-26T16:28:52.670] [INFO] Transactions2013.json - Starts reading from Transactions2013.json
+[2019-06-26T16:28:52.684] [INFO] Transactions2012.xml - Starts reading from Transactions2012.xml
+[2019-06-26T16:35:47.935] [INFO] Transactions2014.csv - Starts reading from Transactions2014.csv
+[2019-06-26T16:35:47.957] [INFO] DodgyTransactions2015.csv - Starts reading from DodgyTransactions2015.csv
+[2019-06-26T16:35:47.961] [ERROR] DodgyTransactions2015.csv - Line 28 has invalid amount of money
+[2019-06-26T16:35:47.969] [ERROR] DodgyTransactions2015.csv - Line 52 has invalid date
+[2019-06-26T16:35:47.970] [INFO] Transactions2012.xml - Starts reading from Transactions2012.xml
+[2019-06-26T16:35:52.154] [INFO] Transactions2014.csv - Starts reading from Transactions2014.csv
+[2019-06-26T16:35:52.174] [INFO] DodgyTransactions2015.csv - Starts reading from DodgyTransactions2015.csv
+[2019-06-26T16:35:52.177] [ERROR] DodgyTransactions2015.csv - Line 28 has invalid amount of money
+[2019-06-26T16:35:52.187] [ERROR] DodgyTransactions2015.csv - Line 52 has invalid date
+[2019-06-26T16:35:52.188] [INFO] Transactions2012.xml - Starts reading from Transactions2012.xml
+[2019-06-26T16:36:12.999] [INFO] Transactions2013.json - Starts reading from Transactions2013.json
+[2019-06-26T16:36:38.241] [INFO] Transactions2014.csv - Starts reading from Transactions2014.csv
+[2019-06-26T16:36:38.262] [INFO] DodgyTransactions2015.csv - Starts reading from DodgyTransactions2015.csv
+[2019-06-26T16:36:38.265] [ERROR] DodgyTransactions2015.csv - Line 28 has invalid amount of money
+[2019-06-26T16:36:38.274] [ERROR] DodgyTransactions2015.csv - Line 52 has invalid date
+[2019-06-26T16:36:38.276] [INFO] Transactions2012.xml - Starts reading from Transactions2012.xml
+[2019-06-26T16:36:47.946] [INFO] Transactions2013.json - Starts reading from Transactions2013.json
