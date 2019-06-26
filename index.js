@@ -1,18 +1,27 @@
+// Modules to be imported
 const fs = require('fs');
 const path = require('path');
-const filename1 = 'Transactions2014.csv';
-const filename2 = 'DodgyTransactions2015.csv';
-const filename3 = 'Transactions2013.json';
-const filePath1 = path.join(__dirname,'./Transactions2014.csv');
-const filePath2 = path.join(__dirname,'./DodgyTransactions2015.csv');
-const filePath3 = path.join(__dirname,'./Transactions2013.json');
 const moment = require('moment');
 const readlineSync = require('readline-sync');
+const convert = require('xml-js');
+
+// Define file name and path
+const Data2014 = 'Transactions2014.csv';
+const Data2015 = 'DodgyTransactions2015.csv';
+const Data2013 = 'Transactions2013.json';
+const Data2012 = 'Transactions2012.xml';
+const Path2014 = path.join(__dirname,'./Transactions2014.csv');
+const Path2015 = path.join(__dirname,'./DodgyTransactions2015.csv');
+const Path2013 = path.join(__dirname,'./Transactions2013.json');
+const Path2012 = path.join(__dirname,'./Transactions2012.xml');
+
+// Define places to store transaction data and accounts
 var TransactionData = [];
 var Accounts = [];
 var log4js = require('log4js')
 var NameLog = [];
 
+// Set log file
 log4js.configure({
     appenders: {
         file: { type: 'fileSync', filename: 'logs/debug.log' }
@@ -22,6 +31,7 @@ log4js.configure({
     }
 });
 
+// Define required classes
 class Transaction
 {
     constructor(TrDate, From, To, Narrative, Amount)
@@ -40,7 +50,7 @@ class Account
     constructor(name)
     {
         this.name = name;
-        this.money = 0;
+        this.Balance = 0;
         this.Transaction = [];
         this.updatedBalance = false;
         this.updatedTransaction = false;
@@ -60,13 +70,13 @@ class Account
             }
         }
         this.updatedBalance = true;
-        this.money = money;
+        this.Balance = money;
         return;
     }
     PrintBalance(WholeTransactionList)
     {
         if(!this.updatedBalance) this.CalculateBalance(WholeTransactionList);
-        return this.money;
+        return this.Balance;
     }
     UpdateTransaction(WholeTransactionList)
     {
@@ -88,88 +98,105 @@ class Account
     }
 }
 
-var logger = log4js.getLogger(filename1);
-logger.info('Starts reading from '+ filename1);
-var Save1 = fs.readFileSync(filePath1, {encoding: 'utf-8'});
-var FileLine1 = Save1.split("\n");
+// Read from Data of 2014
 
-for(i=1;i<FileLine1.length;i++)
+var logger = log4js.getLogger(Data2014);
+logger.info('Starts reading from '+ Data2014);
+var FileInput2014 = fs.readFileSync(Path2014, {encoding: 'utf-8'});
+var RawInput2014 = FileInput2014.split("\n");
+
+for(i=1;i<RawInput2014.length;i++)
 {
-    let tmp = FileLine1[i].split(',');
+    let tmp = RawInput2014[i].split(',');
     if(tmp.length != 5)
     {
         logger.error(`Line ${i+1} has invalid format`);
-        console.log(`Line ${i+1} of ${filename1} is not processed. See Log for details`);
+        console.log(`Line ${i+1} of ${Data2014} is not processed. See Log for details`);
         continue;
     }
     if(!moment(tmp[0],'DD-MM-YYYY').isValid())
     {
         logger.error(`Line ${i+1} has invalid date`);
-        console.log(`Line ${i+1} of ${filename1} is not processed. See Log for details`);
+        console.log(`Line ${i+1} of ${Data2014} is not processed. See Log for details`);
         continue;
     }
     if(isNaN(tmp[4]))
     {
         logger.error(`Line ${i+1} has invalid amount of money`);
-        console.log(`Line ${i+1} of ${filename1} is not processed. See Log for details`);
+        console.log(`Line ${i+1} of ${Data2014} is not processed. See Log for details`);
         continue;
     }
     TransactionData .push(new Transaction(moment(tmp[0],'DD-MM-YYYY'),tmp[1],tmp[2],tmp[3],Number(tmp[4])));
 }
 
-logger = log4js.getLogger(filename2);
-logger.info('Starts reading from '+ filename2);
-var Save2 = fs.readFileSync(filePath2, {encoding: 'utf-8'});
-var FileLine2 = Save2.split("\n");
+logger = log4js.getLogger(Data2015);
+logger.info('Starts reading from '+ Data2015);
+var Save2 = fs.readFileSync(Path2015, {encoding: 'utf-8'});
+var RawInput2015 = Save2.split("\n");
 
-for(i=1;i<FileLine2.length;i++)
+for(i=1;i<RawInput2015.length;i++)
 {
-    let tmp = FileLine2[i].split(',');
+    let tmp = RawInput2015[i].split(',');
     if(tmp.length != 5)
     {
         logger.error(`Line ${i+1} has invalid format`);
-        console.log(`Line ${i+1} of ${filename2} is not processed. See Log for details`);
+        console.log(`Line ${i+1} of ${Data2015} is not processed. See Log for details`);
         continue;
     }
     if(!moment(tmp[0],'DD-MM-YYYY').isValid())
     {
         logger.error(`Line ${i+1} has invalid date`);
-        console.log(`Line ${i+1} of ${filename2} is not processed. See Log for details`);
+        console.log(`Line ${i+1} of ${Data2015} is not processed. See Log for details`);
         continue;
     }
     if(isNaN(tmp[4]))
     {
         logger.error(`Line ${i+1} has invalid amount of money`);
-        console.log(`Line ${i+1} of ${filename2} is not processed. See Log for details`);
+        console.log(`Line ${i+1} of ${Data2015} is not processed. See Log for details`);
         continue;
     }
     TransactionData .push(new Transaction(moment(tmp[0],'DD-MM-YYYY'),tmp[1],tmp[2],tmp[3],Number(tmp[4])));
 }
 
-logger = log4js.getLogger(filename3);
-logger.info('Starts reading from '+ filename3);
-var Save3 = fs.readFileSync(filePath3, {encoding: 'utf-8'});
+logger = log4js.getLogger(Data2013);
+logger.info('Starts reading from '+ Data2013);
+var FileInput2013 = fs.readFileSync(Path2013, {encoding: 'utf-8'});
+var RawInput2013 = JSON.parse(FileInput2013);
 
-var FileLine3 = JSON.parse(Save3);
-
-for(i=1;i<FileLine3.length;i++)
+for(i=1;i<RawInput2013.length;i++)
 {
-    if(!moment(FileLine3[i].Date,'YYYY-MM-DD').isValid())
+    if(!moment(RawInput2013[i].Date,'YYYY-MM-DD').isValid())
     {
         logger.error(`Line ${i+1} has invalid date`);
-        console.log(`Line ${i+1} of ${filename3} is not processed. See Log for details`);
+        console.log(`Line ${i+1} of ${Data2013} is not processed. See Log for details`);
         continue;
     }
-    if(isNaN(FileLine3[i].Amount))
+    if(isNaN(RawInput2013[i].Amount))
     {
         logger.error(`Line ${i+1} has invalid amount of money`);
-        console.log(`Line ${i+1} of ${filename3} is not processed. See Log for details`);
+        console.log(`Line ${i+1} of ${Data2013} is not processed. See Log for details`);
         continue;
     }
-    TransactionData .push(new Transaction(moment(FileLine3[i].Date,'YYYY-MM-DD'),
-    FileLine3[i].FromAccount,FileLine3[i].ToAccount,FileLine3[i].Narrative,Number(FileLine3[i].Amount)));
+    TransactionData .push(new Transaction(moment(RawInput2013[i].Date,'YYYY-MM-DD'),
+    RawInput2013[i].FromAccount,RawInput2013[i].ToAccount,RawInput2013[i].Narrative,Number(RawInput2013[i].Amount)));
 }
 
+logger = log4js.getLogger(Data2012);
+logger.info('Starts reading from '+ Data2012);
+var FileInput2012 = fs.readFileSync(Path2012, {encoding: 'utf-8'});
+var JSONInput2012 = convert.xml2json(FileInput2012,{compact: true, spaces: 4});
+var RawInput2012 = JSON.parse(JSONInput2012).TransactionList.SupportTransaction;
+for(i=0;i<RawInput2012.length;i++)
+{
+    if(isNaN(RawInput2012[i].Value._text))
+    {
+        logger.error(`Line ${i+1} has invalid amount of money`);
+        console.log(`Line ${i+1} of ${Data2012} is not processed. See Log for details`);
+        continue;
+    }
+    TransactionData .push(new Transaction(moment('1900-01-01','YYYY-MM-DD').add(RawInput2012[i]._attributes.Date,'day'),
+    RawInput2012[i].Parties.From._text,RawInput2012[i].Parties.To._text,RawInput2012[i].Description._text,Number(RawInput2012[i].Value._text)));
+}
 console.log('Welcome to SupportBank');
 
 for( i = 0; i < TransactionData.length; i++)

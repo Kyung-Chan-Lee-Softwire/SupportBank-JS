@@ -1116,3 +1116,616 @@
 [2019-06-26T12:06:20.178] [ERROR] DodgyTransactions2015.csv - Line 28 has invalid amount of money
 [2019-06-26T12:06:20.187] [ERROR] DodgyTransactions2015.csv - Line 52 has invalid date
 [2019-06-26T12:06:20.188] [INFO] Transactions2013.json - Starts reading from Transactions2013.json
+[2019-06-26T12:16:16.368] [INFO] Transactions2014.csv - Starts reading from Transactions2014.csv
+[2019-06-26T12:16:16.388] [INFO] DodgyTransactions2015.csv - Starts reading from DodgyTransactions2015.csv
+[2019-06-26T12:16:16.391] [ERROR] DodgyTransactions2015.csv - Line 28 has invalid amount of money
+[2019-06-26T12:16:16.400] [ERROR] DodgyTransactions2015.csv - Line 52 has invalid date
+[2019-06-26T12:16:16.401] [INFO] Transactions2013.json - Starts reading from Transactions2013.json
+[2019-06-26T12:17:31.593] [INFO] Transactions2014.csv - Starts reading from Transactions2014.csv
+[2019-06-26T12:17:31.613] [INFO] DodgyTransactions2015.csv - Starts reading from DodgyTransactions2015.csv
+[2019-06-26T12:17:31.616] [ERROR] DodgyTransactions2015.csv - Line 28 has invalid amount of money
+[2019-06-26T12:17:31.626] [ERROR] DodgyTransactions2015.csv - Line 52 has invalid date
+[2019-06-26T12:17:31.628] [INFO] Transactions2013.json - Starts reading from Transactions2013.json
+[2019-06-26T12:25:18.335] [INFO] Transactions2014.csv - Starts reading from Transactions2014.csv
+[2019-06-26T12:25:18.356] [INFO] DodgyTransactions2015.csv - Starts reading from DodgyTransactions2015.csv
+[2019-06-26T12:25:18.359] [ERROR] DodgyTransactions2015.csv - Line 28 has invalid amount of money
+[2019-06-26T12:25:18.368] [ERROR] DodgyTransactions2015.csv - Line 52 has invalid date
+[2019-06-26T12:25:18.369] [INFO] Transactions2013.json - Starts reading from Transactions2013.json
+[2019-06-26T12:25:18.383] [INFO] Transactions2012.xml - Starts reading from Transactions2012.xml
+[2019-06-26T12:26:21.544] [INFO] Transactions2014.csv - Starts reading from Transactions2014.csv
+[2019-06-26T12:26:21.564] [INFO] DodgyTransactions2015.csv - Starts reading from DodgyTransactions2015.csv
+[2019-06-26T12:26:21.567] [ERROR] DodgyTransactions2015.csv - Line 28 has invalid amount of money
+[2019-06-26T12:26:21.577] [ERROR] DodgyTransactions2015.csv - Line 52 has invalid date
+[2019-06-26T12:26:21.579] [INFO] Transactions2013.json - Starts reading from Transactions2013.json
+[2019-06-26T12:26:21.593] [INFO] Transactions2012.xml - Starts reading from Transactions2012.xml
+[2019-06-26T12:26:37.276] [INFO] Transactions2014.csv - Starts reading from Transactions2014.csv
+[2019-06-26T12:26:37.297] [INFO] DodgyTransactions2015.csv - Starts reading from DodgyTransactions2015.csv
+[2019-06-26T12:26:37.300] [ERROR] DodgyTransactions2015.csv - Line 28 has invalid amount of money
+[2019-06-26T12:26:37.309] [ERROR] DodgyTransactions2015.csv - Line 52 has invalid date
+[2019-06-26T12:26:37.311] [INFO] Transactions2013.json - Starts reading from Transactions2013.json
+[2019-06-26T12:26:37.326] [INFO] Transactions2012.xml - Starts reading from Transactions2012.xml
+[2019-06-26T12:27:33.094] [INFO] Transactions2014.csv - Starts reading from Transactions2014.csv
+[2019-06-26T12:27:33.115] [INFO] DodgyTransactions2015.csv - Starts reading from DodgyTransactions2015.csv
+[2019-06-26T12:27:33.118] [ERROR] DodgyTransactions2015.csv - Line 28 has invalid amount of money
+[2019-06-26T12:27:33.127] [ERROR] DodgyTransactions2015.csv - Line 52 has invalid date
+[2019-06-26T12:27:33.128] [INFO] Transactions2013.json - Starts reading from Transactions2013.json
+[2019-06-26T12:27:33.142] [INFO] Transactions2012.xml - Starts reading from Transactions2012.xml
+[2019-06-26T12:28:17.556] [INFO] Transactions2014.csv - Starts reading from Transactions2014.csv
+[2019-06-26T12:28:17.578] [INFO] DodgyTransactions2015.csv - Starts reading from DodgyTransactions2015.csv
+[2019-06-26T12:28:17.581] [ERROR] DodgyTransactions2015.csv - Line 28 has invalid amount of money
+[2019-06-26T12:28:17.590] [ERROR] DodgyTransactions2015.csv - Line 52 has invalid date
+[2019-06-26T12:28:17.592] [INFO] Transactions2013.json - Starts reading from Transactions2013.json
+[2019-06-26T12:28:17.609] [INFO] Transactions2012.xml - Starts reading from Transactions2012.xml
+[2019-06-26T12:30:47.452] [INFO] Transactions2014.csv - Starts reading from Transactions2014.csv
+[2019-06-26T12:30:47.475] [INFO] DodgyTransactions2015.csv - Starts reading from DodgyTransactions2015.csv
+[2019-06-26T12:30:47.478] [ERROR] DodgyTransactions2015.csv - Line 28 has invalid amount of money
+[2019-06-26T12:30:47.488] [ERROR] DodgyTransactions2015.csv - Line 52 has invalid date
+[2019-06-26T12:30:47.490] [INFO] Transactions2013.json - Starts reading from Transactions2013.json
+[2019-06-26T12:30:47.506] [INFO] Transactions2012.xml - Starts reading from Transactions2012.xml
+[2019-06-26T13:37:29.178] [INFO] Transactions2014.csv - Starts reading from Transactions2014.csv
+[2019-06-26T13:37:29.203] [INFO] DodgyTransactions2015.csv - Starts reading from DodgyTransactions2015.csv
+[2019-06-26T13:37:29.206] [ERROR] DodgyTransactions2015.csv - Line 28 has invalid amount of money
+[2019-06-26T13:37:29.214] [ERROR] DodgyTransactions2015.csv - Line 52 has invalid date
+[2019-06-26T13:37:29.216] [INFO] Transactions2013.json - Starts reading from Transactions2013.json
+[2019-06-26T13:37:29.233] [INFO] Transactions2012.xml - Starts reading from Transactions2012.xml
+[2019-06-26T13:37:55.851] [INFO] Transactions2014.csv - Starts reading from Transactions2014.csv
+[2019-06-26T13:37:55.875] [INFO] DodgyTransactions2015.csv - Starts reading from DodgyTransactions2015.csv
+[2019-06-26T13:37:55.879] [ERROR] DodgyTransactions2015.csv - Line 28 has invalid amount of money
+[2019-06-26T13:37:55.888] [ERROR] DodgyTransactions2015.csv - Line 52 has invalid date
+[2019-06-26T13:37:55.890] [INFO] Transactions2013.json - Starts reading from Transactions2013.json
+[2019-06-26T13:37:55.909] [INFO] Transactions2012.xml - Starts reading from Transactions2012.xml
+[2019-06-26T13:39:51.738] [INFO] Transactions2014.csv - Starts reading from Transactions2014.csv
+[2019-06-26T13:39:51.759] [INFO] DodgyTransactions2015.csv - Starts reading from DodgyTransactions2015.csv
+[2019-06-26T13:39:51.762] [ERROR] DodgyTransactions2015.csv - Line 28 has invalid amount of money
+[2019-06-26T13:39:51.770] [ERROR] DodgyTransactions2015.csv - Line 52 has invalid date
+[2019-06-26T13:39:51.772] [INFO] Transactions2013.json - Starts reading from Transactions2013.json
+[2019-06-26T13:39:51.785] [INFO] Transactions2012.xml - Starts reading from Transactions2012.xml
+[2019-06-26T13:42:35.565] [INFO] Transactions2014.csv - Starts reading from Transactions2014.csv
+[2019-06-26T13:42:35.586] [INFO] DodgyTransactions2015.csv - Starts reading from DodgyTransactions2015.csv
+[2019-06-26T13:42:35.590] [ERROR] DodgyTransactions2015.csv - Line 28 has invalid amount of money
+[2019-06-26T13:42:35.598] [ERROR] DodgyTransactions2015.csv - Line 52 has invalid date
+[2019-06-26T13:42:35.600] [INFO] Transactions2013.json - Starts reading from Transactions2013.json
+[2019-06-26T13:42:35.614] [INFO] Transactions2012.xml - Starts reading from Transactions2012.xml
+[2019-06-26T13:47:01.334] [INFO] Transactions2014.csv - Starts reading from Transactions2014.csv
+[2019-06-26T13:47:01.357] [INFO] DodgyTransactions2015.csv - Starts reading from DodgyTransactions2015.csv
+[2019-06-26T13:47:01.360] [ERROR] DodgyTransactions2015.csv - Line 28 has invalid amount of money
+[2019-06-26T13:47:01.369] [ERROR] DodgyTransactions2015.csv - Line 52 has invalid date
+[2019-06-26T13:47:01.371] [INFO] Transactions2013.json - Starts reading from Transactions2013.json
+[2019-06-26T13:47:01.392] [INFO] Transactions2012.xml - Starts reading from Transactions2012.xml
+[2019-06-26T13:49:43.930] [INFO] Transactions2014.csv - Starts reading from Transactions2014.csv
+[2019-06-26T13:49:43.952] [INFO] DodgyTransactions2015.csv - Starts reading from DodgyTransactions2015.csv
+[2019-06-26T13:49:43.955] [ERROR] DodgyTransactions2015.csv - Line 28 has invalid amount of money
+[2019-06-26T13:49:43.963] [ERROR] DodgyTransactions2015.csv - Line 52 has invalid date
+[2019-06-26T13:49:43.964] [INFO] Transactions2013.json - Starts reading from Transactions2013.json
+[2019-06-26T13:49:43.978] [INFO] Transactions2012.xml - Starts reading from Transactions2012.xml
+[2019-06-26T13:52:41.487] [INFO] Transactions2014.csv - Starts reading from Transactions2014.csv
+[2019-06-26T13:52:41.510] [INFO] DodgyTransactions2015.csv - Starts reading from DodgyTransactions2015.csv
+[2019-06-26T13:52:41.514] [ERROR] DodgyTransactions2015.csv - Line 28 has invalid amount of money
+[2019-06-26T13:52:41.523] [ERROR] DodgyTransactions2015.csv - Line 52 has invalid date
+[2019-06-26T13:52:41.525] [INFO] Transactions2013.json - Starts reading from Transactions2013.json
+[2019-06-26T13:52:41.542] [INFO] Transactions2012.xml - Starts reading from Transactions2012.xml
+[2019-06-26T14:03:12.246] [INFO] Transactions2014.csv - Starts reading from Transactions2014.csv
+[2019-06-26T14:03:12.272] [INFO] DodgyTransactions2015.csv - Starts reading from DodgyTransactions2015.csv
+[2019-06-26T14:03:12.276] [ERROR] DodgyTransactions2015.csv - Line 28 has invalid amount of money
+[2019-06-26T14:03:12.284] [ERROR] DodgyTransactions2015.csv - Line 52 has invalid date
+[2019-06-26T14:03:12.285] [INFO] Transactions2013.json - Starts reading from Transactions2013.json
+[2019-06-26T14:03:12.299] [INFO] Transactions2012.xml - Starts reading from Transactions2012.xml
+[2019-06-26T14:03:51.603] [INFO] Transactions2014.csv - Starts reading from Transactions2014.csv
+[2019-06-26T14:03:51.626] [INFO] DodgyTransactions2015.csv - Starts reading from DodgyTransactions2015.csv
+[2019-06-26T14:03:51.629] [ERROR] DodgyTransactions2015.csv - Line 28 has invalid amount of money
+[2019-06-26T14:03:51.638] [ERROR] DodgyTransactions2015.csv - Line 52 has invalid date
+[2019-06-26T14:03:51.639] [INFO] Transactions2013.json - Starts reading from Transactions2013.json
+[2019-06-26T14:03:51.661] [INFO] Transactions2012.xml - Starts reading from Transactions2012.xml
+[2019-06-26T14:08:48.221] [INFO] Transactions2014.csv - Starts reading from Transactions2014.csv
+[2019-06-26T14:08:48.241] [INFO] DodgyTransactions2015.csv - Starts reading from DodgyTransactions2015.csv
+[2019-06-26T14:08:48.245] [ERROR] DodgyTransactions2015.csv - Line 28 has invalid amount of money
+[2019-06-26T14:08:48.255] [ERROR] DodgyTransactions2015.csv - Line 52 has invalid date
+[2019-06-26T14:08:48.256] [INFO] Transactions2013.json - Starts reading from Transactions2013.json
+[2019-06-26T14:08:48.274] [INFO] Transactions2012.xml - Starts reading from Transactions2012.xml
+[2019-06-26T14:08:48.317] [ERROR] Transactions2012.xml - Line 1 has invalid date
+[2019-06-26T14:08:48.318] [ERROR] Transactions2012.xml - Line 2 has invalid date
+[2019-06-26T14:08:48.319] [ERROR] Transactions2012.xml - Line 3 has invalid date
+[2019-06-26T14:08:48.320] [ERROR] Transactions2012.xml - Line 4 has invalid date
+[2019-06-26T14:08:48.321] [ERROR] Transactions2012.xml - Line 5 has invalid date
+[2019-06-26T14:08:48.322] [ERROR] Transactions2012.xml - Line 6 has invalid date
+[2019-06-26T14:08:48.323] [ERROR] Transactions2012.xml - Line 7 has invalid date
+[2019-06-26T14:08:48.324] [ERROR] Transactions2012.xml - Line 8 has invalid date
+[2019-06-26T14:08:48.325] [ERROR] Transactions2012.xml - Line 9 has invalid date
+[2019-06-26T14:08:48.326] [ERROR] Transactions2012.xml - Line 10 has invalid date
+[2019-06-26T14:08:48.327] [ERROR] Transactions2012.xml - Line 11 has invalid date
+[2019-06-26T14:08:48.327] [ERROR] Transactions2012.xml - Line 12 has invalid date
+[2019-06-26T14:08:48.329] [ERROR] Transactions2012.xml - Line 13 has invalid date
+[2019-06-26T14:08:48.329] [ERROR] Transactions2012.xml - Line 14 has invalid date
+[2019-06-26T14:08:48.330] [ERROR] Transactions2012.xml - Line 15 has invalid date
+[2019-06-26T14:08:48.331] [ERROR] Transactions2012.xml - Line 16 has invalid date
+[2019-06-26T14:08:48.332] [ERROR] Transactions2012.xml - Line 17 has invalid date
+[2019-06-26T14:08:48.333] [ERROR] Transactions2012.xml - Line 18 has invalid date
+[2019-06-26T14:08:48.334] [ERROR] Transactions2012.xml - Line 19 has invalid date
+[2019-06-26T14:08:48.335] [ERROR] Transactions2012.xml - Line 20 has invalid date
+[2019-06-26T14:08:48.336] [ERROR] Transactions2012.xml - Line 21 has invalid date
+[2019-06-26T14:08:48.337] [ERROR] Transactions2012.xml - Line 22 has invalid date
+[2019-06-26T14:08:48.338] [ERROR] Transactions2012.xml - Line 23 has invalid date
+[2019-06-26T14:08:48.339] [ERROR] Transactions2012.xml - Line 24 has invalid date
+[2019-06-26T14:08:48.340] [ERROR] Transactions2012.xml - Line 25 has invalid date
+[2019-06-26T14:08:48.341] [ERROR] Transactions2012.xml - Line 26 has invalid date
+[2019-06-26T14:08:48.342] [ERROR] Transactions2012.xml - Line 27 has invalid date
+[2019-06-26T14:08:48.343] [ERROR] Transactions2012.xml - Line 28 has invalid date
+[2019-06-26T14:08:48.344] [ERROR] Transactions2012.xml - Line 29 has invalid date
+[2019-06-26T14:08:48.345] [ERROR] Transactions2012.xml - Line 30 has invalid date
+[2019-06-26T14:08:48.346] [ERROR] Transactions2012.xml - Line 31 has invalid date
+[2019-06-26T14:08:48.347] [ERROR] Transactions2012.xml - Line 32 has invalid date
+[2019-06-26T14:08:48.348] [ERROR] Transactions2012.xml - Line 33 has invalid date
+[2019-06-26T14:08:48.349] [ERROR] Transactions2012.xml - Line 34 has invalid date
+[2019-06-26T14:08:48.350] [ERROR] Transactions2012.xml - Line 35 has invalid date
+[2019-06-26T14:08:48.351] [ERROR] Transactions2012.xml - Line 36 has invalid date
+[2019-06-26T14:08:48.352] [ERROR] Transactions2012.xml - Line 37 has invalid date
+[2019-06-26T14:08:48.353] [ERROR] Transactions2012.xml - Line 38 has invalid date
+[2019-06-26T14:08:48.354] [ERROR] Transactions2012.xml - Line 39 has invalid date
+[2019-06-26T14:08:48.356] [ERROR] Transactions2012.xml - Line 40 has invalid date
+[2019-06-26T14:08:48.357] [ERROR] Transactions2012.xml - Line 41 has invalid date
+[2019-06-26T14:08:48.358] [ERROR] Transactions2012.xml - Line 42 has invalid date
+[2019-06-26T14:08:48.359] [ERROR] Transactions2012.xml - Line 43 has invalid date
+[2019-06-26T14:08:48.360] [ERROR] Transactions2012.xml - Line 44 has invalid date
+[2019-06-26T14:08:48.361] [ERROR] Transactions2012.xml - Line 45 has invalid date
+[2019-06-26T14:08:48.362] [ERROR] Transactions2012.xml - Line 46 has invalid date
+[2019-06-26T14:08:48.363] [ERROR] Transactions2012.xml - Line 47 has invalid date
+[2019-06-26T14:08:48.364] [ERROR] Transactions2012.xml - Line 48 has invalid date
+[2019-06-26T14:08:48.365] [ERROR] Transactions2012.xml - Line 49 has invalid date
+[2019-06-26T14:08:48.366] [ERROR] Transactions2012.xml - Line 50 has invalid date
+[2019-06-26T14:08:48.367] [ERROR] Transactions2012.xml - Line 51 has invalid date
+[2019-06-26T14:08:48.369] [ERROR] Transactions2012.xml - Line 52 has invalid date
+[2019-06-26T14:08:48.370] [ERROR] Transactions2012.xml - Line 53 has invalid date
+[2019-06-26T14:08:48.371] [ERROR] Transactions2012.xml - Line 54 has invalid date
+[2019-06-26T14:08:48.372] [ERROR] Transactions2012.xml - Line 55 has invalid date
+[2019-06-26T14:08:48.373] [ERROR] Transactions2012.xml - Line 56 has invalid date
+[2019-06-26T14:08:48.374] [ERROR] Transactions2012.xml - Line 57 has invalid date
+[2019-06-26T14:08:48.376] [ERROR] Transactions2012.xml - Line 58 has invalid date
+[2019-06-26T14:08:48.377] [ERROR] Transactions2012.xml - Line 59 has invalid date
+[2019-06-26T14:08:48.378] [ERROR] Transactions2012.xml - Line 60 has invalid date
+[2019-06-26T14:08:48.379] [ERROR] Transactions2012.xml - Line 61 has invalid date
+[2019-06-26T14:08:48.380] [ERROR] Transactions2012.xml - Line 62 has invalid date
+[2019-06-26T14:08:48.381] [ERROR] Transactions2012.xml - Line 63 has invalid date
+[2019-06-26T14:08:48.382] [ERROR] Transactions2012.xml - Line 64 has invalid date
+[2019-06-26T14:08:48.383] [ERROR] Transactions2012.xml - Line 65 has invalid date
+[2019-06-26T14:08:48.385] [ERROR] Transactions2012.xml - Line 66 has invalid date
+[2019-06-26T14:08:48.386] [ERROR] Transactions2012.xml - Line 67 has invalid date
+[2019-06-26T14:08:48.387] [ERROR] Transactions2012.xml - Line 68 has invalid date
+[2019-06-26T14:08:48.388] [ERROR] Transactions2012.xml - Line 69 has invalid date
+[2019-06-26T14:08:48.390] [ERROR] Transactions2012.xml - Line 70 has invalid date
+[2019-06-26T14:08:48.391] [ERROR] Transactions2012.xml - Line 71 has invalid date
+[2019-06-26T14:08:48.392] [ERROR] Transactions2012.xml - Line 72 has invalid date
+[2019-06-26T14:08:48.393] [ERROR] Transactions2012.xml - Line 73 has invalid date
+[2019-06-26T14:08:48.394] [ERROR] Transactions2012.xml - Line 74 has invalid date
+[2019-06-26T14:08:48.395] [ERROR] Transactions2012.xml - Line 75 has invalid date
+[2019-06-26T14:08:48.396] [ERROR] Transactions2012.xml - Line 76 has invalid date
+[2019-06-26T14:08:48.398] [ERROR] Transactions2012.xml - Line 77 has invalid date
+[2019-06-26T14:08:48.399] [ERROR] Transactions2012.xml - Line 78 has invalid date
+[2019-06-26T14:08:48.400] [ERROR] Transactions2012.xml - Line 79 has invalid date
+[2019-06-26T14:08:48.401] [ERROR] Transactions2012.xml - Line 80 has invalid date
+[2019-06-26T14:08:48.403] [ERROR] Transactions2012.xml - Line 81 has invalid date
+[2019-06-26T14:08:48.404] [ERROR] Transactions2012.xml - Line 82 has invalid date
+[2019-06-26T14:08:48.406] [ERROR] Transactions2012.xml - Line 83 has invalid date
+[2019-06-26T14:08:48.408] [ERROR] Transactions2012.xml - Line 84 has invalid date
+[2019-06-26T14:08:48.409] [ERROR] Transactions2012.xml - Line 85 has invalid date
+[2019-06-26T14:08:48.410] [ERROR] Transactions2012.xml - Line 86 has invalid date
+[2019-06-26T14:08:48.411] [ERROR] Transactions2012.xml - Line 87 has invalid date
+[2019-06-26T14:08:48.412] [ERROR] Transactions2012.xml - Line 88 has invalid date
+[2019-06-26T14:08:48.413] [ERROR] Transactions2012.xml - Line 89 has invalid date
+[2019-06-26T14:08:48.414] [ERROR] Transactions2012.xml - Line 90 has invalid date
+[2019-06-26T14:08:48.415] [ERROR] Transactions2012.xml - Line 91 has invalid date
+[2019-06-26T14:08:48.417] [ERROR] Transactions2012.xml - Line 92 has invalid date
+[2019-06-26T14:08:48.419] [ERROR] Transactions2012.xml - Line 93 has invalid date
+[2019-06-26T14:08:48.420] [ERROR] Transactions2012.xml - Line 94 has invalid date
+[2019-06-26T14:08:48.422] [ERROR] Transactions2012.xml - Line 95 has invalid date
+[2019-06-26T14:08:48.423] [ERROR] Transactions2012.xml - Line 96 has invalid date
+[2019-06-26T14:08:48.424] [ERROR] Transactions2012.xml - Line 97 has invalid date
+[2019-06-26T14:08:48.426] [ERROR] Transactions2012.xml - Line 98 has invalid date
+[2019-06-26T14:08:48.427] [ERROR] Transactions2012.xml - Line 99 has invalid date
+[2019-06-26T14:08:48.428] [ERROR] Transactions2012.xml - Line 100 has invalid date
+[2019-06-26T14:08:48.429] [ERROR] Transactions2012.xml - Line 101 has invalid date
+[2019-06-26T14:08:48.430] [ERROR] Transactions2012.xml - Line 102 has invalid date
+[2019-06-26T14:08:48.432] [ERROR] Transactions2012.xml - Line 103 has invalid date
+[2019-06-26T14:08:48.433] [ERROR] Transactions2012.xml - Line 104 has invalid date
+[2019-06-26T14:08:48.435] [ERROR] Transactions2012.xml - Line 105 has invalid date
+[2019-06-26T14:08:48.436] [ERROR] Transactions2012.xml - Line 106 has invalid date
+[2019-06-26T14:08:48.437] [ERROR] Transactions2012.xml - Line 107 has invalid date
+[2019-06-26T14:08:48.440] [ERROR] Transactions2012.xml - Line 108 has invalid date
+[2019-06-26T14:08:48.441] [ERROR] Transactions2012.xml - Line 109 has invalid date
+[2019-06-26T14:08:48.442] [ERROR] Transactions2012.xml - Line 110 has invalid date
+[2019-06-26T14:08:48.443] [ERROR] Transactions2012.xml - Line 111 has invalid date
+[2019-06-26T14:08:48.444] [ERROR] Transactions2012.xml - Line 112 has invalid date
+[2019-06-26T14:08:48.445] [ERROR] Transactions2012.xml - Line 113 has invalid date
+[2019-06-26T14:08:48.446] [ERROR] Transactions2012.xml - Line 114 has invalid date
+[2019-06-26T14:08:48.447] [ERROR] Transactions2012.xml - Line 115 has invalid date
+[2019-06-26T14:08:48.448] [ERROR] Transactions2012.xml - Line 116 has invalid date
+[2019-06-26T14:08:48.449] [ERROR] Transactions2012.xml - Line 117 has invalid date
+[2019-06-26T14:08:48.450] [ERROR] Transactions2012.xml - Line 118 has invalid date
+[2019-06-26T14:08:48.452] [ERROR] Transactions2012.xml - Line 119 has invalid date
+[2019-06-26T14:08:48.453] [ERROR] Transactions2012.xml - Line 120 has invalid date
+[2019-06-26T14:08:48.455] [ERROR] Transactions2012.xml - Line 121 has invalid date
+[2019-06-26T14:08:48.456] [ERROR] Transactions2012.xml - Line 122 has invalid date
+[2019-06-26T14:08:48.457] [ERROR] Transactions2012.xml - Line 123 has invalid date
+[2019-06-26T14:08:48.458] [ERROR] Transactions2012.xml - Line 124 has invalid date
+[2019-06-26T14:08:48.459] [ERROR] Transactions2012.xml - Line 125 has invalid date
+[2019-06-26T14:08:48.460] [ERROR] Transactions2012.xml - Line 126 has invalid date
+[2019-06-26T14:08:48.461] [ERROR] Transactions2012.xml - Line 127 has invalid date
+[2019-06-26T14:08:48.462] [ERROR] Transactions2012.xml - Line 128 has invalid date
+[2019-06-26T14:08:48.463] [ERROR] Transactions2012.xml - Line 129 has invalid date
+[2019-06-26T14:08:48.464] [ERROR] Transactions2012.xml - Line 130 has invalid date
+[2019-06-26T14:08:48.465] [ERROR] Transactions2012.xml - Line 131 has invalid date
+[2019-06-26T14:08:48.466] [ERROR] Transactions2012.xml - Line 132 has invalid date
+[2019-06-26T14:08:48.467] [ERROR] Transactions2012.xml - Line 133 has invalid date
+[2019-06-26T14:08:48.468] [ERROR] Transactions2012.xml - Line 134 has invalid date
+[2019-06-26T14:08:48.469] [ERROR] Transactions2012.xml - Line 135 has invalid date
+[2019-06-26T14:08:48.470] [ERROR] Transactions2012.xml - Line 136 has invalid date
+[2019-06-26T14:08:48.471] [ERROR] Transactions2012.xml - Line 137 has invalid date
+[2019-06-26T14:08:48.472] [ERROR] Transactions2012.xml - Line 138 has invalid date
+[2019-06-26T14:08:48.473] [ERROR] Transactions2012.xml - Line 139 has invalid date
+[2019-06-26T14:08:48.474] [ERROR] Transactions2012.xml - Line 140 has invalid date
+[2019-06-26T14:08:48.475] [ERROR] Transactions2012.xml - Line 141 has invalid date
+[2019-06-26T14:08:48.476] [ERROR] Transactions2012.xml - Line 142 has invalid date
+[2019-06-26T14:08:48.477] [ERROR] Transactions2012.xml - Line 143 has invalid date
+[2019-06-26T14:08:48.478] [ERROR] Transactions2012.xml - Line 144 has invalid date
+[2019-06-26T14:08:48.479] [ERROR] Transactions2012.xml - Line 145 has invalid date
+[2019-06-26T14:08:48.481] [ERROR] Transactions2012.xml - Line 146 has invalid date
+[2019-06-26T14:08:48.482] [ERROR] Transactions2012.xml - Line 147 has invalid date
+[2019-06-26T14:08:48.483] [ERROR] Transactions2012.xml - Line 148 has invalid date
+[2019-06-26T14:08:48.485] [ERROR] Transactions2012.xml - Line 149 has invalid date
+[2019-06-26T14:09:13.573] [INFO] Transactions2014.csv - Starts reading from Transactions2014.csv
+[2019-06-26T14:09:13.596] [INFO] DodgyTransactions2015.csv - Starts reading from DodgyTransactions2015.csv
+[2019-06-26T14:09:13.599] [ERROR] DodgyTransactions2015.csv - Line 28 has invalid amount of money
+[2019-06-26T14:09:13.607] [ERROR] DodgyTransactions2015.csv - Line 52 has invalid date
+[2019-06-26T14:09:13.609] [INFO] Transactions2013.json - Starts reading from Transactions2013.json
+[2019-06-26T14:09:13.623] [INFO] Transactions2012.xml - Starts reading from Transactions2012.xml
+[2019-06-26T14:09:33.503] [INFO] Transactions2014.csv - Starts reading from Transactions2014.csv
+[2019-06-26T14:09:33.527] [INFO] DodgyTransactions2015.csv - Starts reading from DodgyTransactions2015.csv
+[2019-06-26T14:09:33.531] [ERROR] DodgyTransactions2015.csv - Line 28 has invalid amount of money
+[2019-06-26T14:09:33.540] [ERROR] DodgyTransactions2015.csv - Line 52 has invalid date
+[2019-06-26T14:09:33.542] [INFO] Transactions2013.json - Starts reading from Transactions2013.json
+[2019-06-26T14:09:33.556] [INFO] Transactions2012.xml - Starts reading from Transactions2012.xml
+[2019-06-26T14:09:33.610] [ERROR] Transactions2012.xml - Line 1 has invalid amount of money
+[2019-06-26T14:09:33.611] [ERROR] Transactions2012.xml - Line 2 has invalid amount of money
+[2019-06-26T14:09:33.613] [ERROR] Transactions2012.xml - Line 3 has invalid amount of money
+[2019-06-26T14:09:33.614] [ERROR] Transactions2012.xml - Line 4 has invalid amount of money
+[2019-06-26T14:09:33.616] [ERROR] Transactions2012.xml - Line 5 has invalid amount of money
+[2019-06-26T14:09:33.618] [ERROR] Transactions2012.xml - Line 6 has invalid amount of money
+[2019-06-26T14:09:33.619] [ERROR] Transactions2012.xml - Line 7 has invalid amount of money
+[2019-06-26T14:09:33.620] [ERROR] Transactions2012.xml - Line 8 has invalid amount of money
+[2019-06-26T14:09:33.622] [ERROR] Transactions2012.xml - Line 9 has invalid amount of money
+[2019-06-26T14:09:33.623] [ERROR] Transactions2012.xml - Line 10 has invalid amount of money
+[2019-06-26T14:09:33.624] [ERROR] Transactions2012.xml - Line 11 has invalid amount of money
+[2019-06-26T14:09:33.626] [ERROR] Transactions2012.xml - Line 12 has invalid amount of money
+[2019-06-26T14:09:33.627] [ERROR] Transactions2012.xml - Line 13 has invalid amount of money
+[2019-06-26T14:09:33.629] [ERROR] Transactions2012.xml - Line 14 has invalid amount of money
+[2019-06-26T14:09:33.630] [ERROR] Transactions2012.xml - Line 15 has invalid amount of money
+[2019-06-26T14:09:33.631] [ERROR] Transactions2012.xml - Line 16 has invalid amount of money
+[2019-06-26T14:09:33.633] [ERROR] Transactions2012.xml - Line 17 has invalid amount of money
+[2019-06-26T14:09:33.634] [ERROR] Transactions2012.xml - Line 18 has invalid amount of money
+[2019-06-26T14:09:33.636] [ERROR] Transactions2012.xml - Line 19 has invalid amount of money
+[2019-06-26T14:09:33.638] [ERROR] Transactions2012.xml - Line 20 has invalid amount of money
+[2019-06-26T14:09:33.639] [ERROR] Transactions2012.xml - Line 21 has invalid amount of money
+[2019-06-26T14:09:33.641] [ERROR] Transactions2012.xml - Line 22 has invalid amount of money
+[2019-06-26T14:09:33.642] [ERROR] Transactions2012.xml - Line 23 has invalid amount of money
+[2019-06-26T14:09:33.643] [ERROR] Transactions2012.xml - Line 24 has invalid amount of money
+[2019-06-26T14:09:33.644] [ERROR] Transactions2012.xml - Line 25 has invalid amount of money
+[2019-06-26T14:09:33.645] [ERROR] Transactions2012.xml - Line 26 has invalid amount of money
+[2019-06-26T14:09:33.646] [ERROR] Transactions2012.xml - Line 27 has invalid amount of money
+[2019-06-26T14:09:33.647] [ERROR] Transactions2012.xml - Line 28 has invalid amount of money
+[2019-06-26T14:09:33.648] [ERROR] Transactions2012.xml - Line 29 has invalid amount of money
+[2019-06-26T14:09:33.649] [ERROR] Transactions2012.xml - Line 30 has invalid amount of money
+[2019-06-26T14:09:33.650] [ERROR] Transactions2012.xml - Line 31 has invalid amount of money
+[2019-06-26T14:09:33.652] [ERROR] Transactions2012.xml - Line 32 has invalid amount of money
+[2019-06-26T14:09:33.653] [ERROR] Transactions2012.xml - Line 33 has invalid amount of money
+[2019-06-26T14:09:33.654] [ERROR] Transactions2012.xml - Line 34 has invalid amount of money
+[2019-06-26T14:09:33.655] [ERROR] Transactions2012.xml - Line 35 has invalid amount of money
+[2019-06-26T14:09:33.656] [ERROR] Transactions2012.xml - Line 36 has invalid amount of money
+[2019-06-26T14:09:33.657] [ERROR] Transactions2012.xml - Line 37 has invalid amount of money
+[2019-06-26T14:09:33.659] [ERROR] Transactions2012.xml - Line 38 has invalid amount of money
+[2019-06-26T14:09:33.660] [ERROR] Transactions2012.xml - Line 39 has invalid amount of money
+[2019-06-26T14:09:33.662] [ERROR] Transactions2012.xml - Line 40 has invalid amount of money
+[2019-06-26T14:09:33.663] [ERROR] Transactions2012.xml - Line 41 has invalid amount of money
+[2019-06-26T14:09:33.665] [ERROR] Transactions2012.xml - Line 42 has invalid amount of money
+[2019-06-26T14:09:33.666] [ERROR] Transactions2012.xml - Line 43 has invalid amount of money
+[2019-06-26T14:09:33.667] [ERROR] Transactions2012.xml - Line 44 has invalid amount of money
+[2019-06-26T14:09:33.668] [ERROR] Transactions2012.xml - Line 45 has invalid amount of money
+[2019-06-26T14:09:33.670] [ERROR] Transactions2012.xml - Line 46 has invalid amount of money
+[2019-06-26T14:09:33.671] [ERROR] Transactions2012.xml - Line 47 has invalid amount of money
+[2019-06-26T14:09:33.672] [ERROR] Transactions2012.xml - Line 48 has invalid amount of money
+[2019-06-26T14:09:33.673] [ERROR] Transactions2012.xml - Line 49 has invalid amount of money
+[2019-06-26T14:09:33.675] [ERROR] Transactions2012.xml - Line 50 has invalid amount of money
+[2019-06-26T14:09:33.675] [ERROR] Transactions2012.xml - Line 51 has invalid amount of money
+[2019-06-26T14:09:33.676] [ERROR] Transactions2012.xml - Line 52 has invalid amount of money
+[2019-06-26T14:09:33.678] [ERROR] Transactions2012.xml - Line 53 has invalid amount of money
+[2019-06-26T14:09:33.679] [ERROR] Transactions2012.xml - Line 54 has invalid amount of money
+[2019-06-26T14:09:33.680] [ERROR] Transactions2012.xml - Line 55 has invalid amount of money
+[2019-06-26T14:09:33.681] [ERROR] Transactions2012.xml - Line 56 has invalid amount of money
+[2019-06-26T14:09:33.682] [ERROR] Transactions2012.xml - Line 57 has invalid amount of money
+[2019-06-26T14:09:33.683] [ERROR] Transactions2012.xml - Line 58 has invalid amount of money
+[2019-06-26T14:09:33.684] [ERROR] Transactions2012.xml - Line 59 has invalid amount of money
+[2019-06-26T14:09:33.685] [ERROR] Transactions2012.xml - Line 60 has invalid amount of money
+[2019-06-26T14:09:33.687] [ERROR] Transactions2012.xml - Line 61 has invalid amount of money
+[2019-06-26T14:09:33.688] [ERROR] Transactions2012.xml - Line 62 has invalid amount of money
+[2019-06-26T14:09:33.689] [ERROR] Transactions2012.xml - Line 63 has invalid amount of money
+[2019-06-26T14:09:33.690] [ERROR] Transactions2012.xml - Line 64 has invalid amount of money
+[2019-06-26T14:09:33.691] [ERROR] Transactions2012.xml - Line 65 has invalid amount of money
+[2019-06-26T14:09:33.692] [ERROR] Transactions2012.xml - Line 66 has invalid amount of money
+[2019-06-26T14:09:33.693] [ERROR] Transactions2012.xml - Line 67 has invalid amount of money
+[2019-06-26T14:09:33.695] [ERROR] Transactions2012.xml - Line 68 has invalid amount of money
+[2019-06-26T14:09:33.696] [ERROR] Transactions2012.xml - Line 69 has invalid amount of money
+[2019-06-26T14:09:33.697] [ERROR] Transactions2012.xml - Line 70 has invalid amount of money
+[2019-06-26T14:09:33.698] [ERROR] Transactions2012.xml - Line 71 has invalid amount of money
+[2019-06-26T14:09:33.699] [ERROR] Transactions2012.xml - Line 72 has invalid amount of money
+[2019-06-26T14:09:33.700] [ERROR] Transactions2012.xml - Line 73 has invalid amount of money
+[2019-06-26T14:09:33.701] [ERROR] Transactions2012.xml - Line 74 has invalid amount of money
+[2019-06-26T14:09:33.703] [ERROR] Transactions2012.xml - Line 75 has invalid amount of money
+[2019-06-26T14:09:33.704] [ERROR] Transactions2012.xml - Line 76 has invalid amount of money
+[2019-06-26T14:09:33.706] [ERROR] Transactions2012.xml - Line 77 has invalid amount of money
+[2019-06-26T14:09:33.707] [ERROR] Transactions2012.xml - Line 78 has invalid amount of money
+[2019-06-26T14:09:33.709] [ERROR] Transactions2012.xml - Line 79 has invalid amount of money
+[2019-06-26T14:09:33.710] [ERROR] Transactions2012.xml - Line 80 has invalid amount of money
+[2019-06-26T14:09:33.711] [ERROR] Transactions2012.xml - Line 81 has invalid amount of money
+[2019-06-26T14:09:33.712] [ERROR] Transactions2012.xml - Line 82 has invalid amount of money
+[2019-06-26T14:09:33.713] [ERROR] Transactions2012.xml - Line 83 has invalid amount of money
+[2019-06-26T14:09:33.714] [ERROR] Transactions2012.xml - Line 84 has invalid amount of money
+[2019-06-26T14:09:33.716] [ERROR] Transactions2012.xml - Line 85 has invalid amount of money
+[2019-06-26T14:09:33.717] [ERROR] Transactions2012.xml - Line 86 has invalid amount of money
+[2019-06-26T14:09:33.720] [ERROR] Transactions2012.xml - Line 87 has invalid amount of money
+[2019-06-26T14:09:33.721] [ERROR] Transactions2012.xml - Line 88 has invalid amount of money
+[2019-06-26T14:09:33.722] [ERROR] Transactions2012.xml - Line 89 has invalid amount of money
+[2019-06-26T14:09:33.724] [ERROR] Transactions2012.xml - Line 90 has invalid amount of money
+[2019-06-26T14:09:33.725] [ERROR] Transactions2012.xml - Line 91 has invalid amount of money
+[2019-06-26T14:09:33.727] [ERROR] Transactions2012.xml - Line 92 has invalid amount of money
+[2019-06-26T14:09:33.728] [ERROR] Transactions2012.xml - Line 93 has invalid amount of money
+[2019-06-26T14:09:33.730] [ERROR] Transactions2012.xml - Line 94 has invalid amount of money
+[2019-06-26T14:09:33.731] [ERROR] Transactions2012.xml - Line 95 has invalid amount of money
+[2019-06-26T14:09:33.733] [ERROR] Transactions2012.xml - Line 96 has invalid amount of money
+[2019-06-26T14:09:33.735] [ERROR] Transactions2012.xml - Line 97 has invalid amount of money
+[2019-06-26T14:09:33.737] [ERROR] Transactions2012.xml - Line 98 has invalid amount of money
+[2019-06-26T14:09:33.738] [ERROR] Transactions2012.xml - Line 99 has invalid amount of money
+[2019-06-26T14:09:33.739] [ERROR] Transactions2012.xml - Line 100 has invalid amount of money
+[2019-06-26T14:09:33.741] [ERROR] Transactions2012.xml - Line 101 has invalid amount of money
+[2019-06-26T14:09:33.742] [ERROR] Transactions2012.xml - Line 102 has invalid amount of money
+[2019-06-26T14:09:33.744] [ERROR] Transactions2012.xml - Line 103 has invalid amount of money
+[2019-06-26T14:09:33.745] [ERROR] Transactions2012.xml - Line 104 has invalid amount of money
+[2019-06-26T14:09:33.746] [ERROR] Transactions2012.xml - Line 105 has invalid amount of money
+[2019-06-26T14:09:33.747] [ERROR] Transactions2012.xml - Line 106 has invalid amount of money
+[2019-06-26T14:09:33.749] [ERROR] Transactions2012.xml - Line 107 has invalid amount of money
+[2019-06-26T14:09:33.750] [ERROR] Transactions2012.xml - Line 108 has invalid amount of money
+[2019-06-26T14:09:33.752] [ERROR] Transactions2012.xml - Line 109 has invalid amount of money
+[2019-06-26T14:09:33.754] [ERROR] Transactions2012.xml - Line 110 has invalid amount of money
+[2019-06-26T14:09:33.755] [ERROR] Transactions2012.xml - Line 111 has invalid amount of money
+[2019-06-26T14:09:33.757] [ERROR] Transactions2012.xml - Line 112 has invalid amount of money
+[2019-06-26T14:09:33.758] [ERROR] Transactions2012.xml - Line 113 has invalid amount of money
+[2019-06-26T14:09:33.759] [ERROR] Transactions2012.xml - Line 114 has invalid amount of money
+[2019-06-26T14:09:33.761] [ERROR] Transactions2012.xml - Line 115 has invalid amount of money
+[2019-06-26T14:09:33.762] [ERROR] Transactions2012.xml - Line 116 has invalid amount of money
+[2019-06-26T14:09:33.764] [ERROR] Transactions2012.xml - Line 117 has invalid amount of money
+[2019-06-26T14:09:33.765] [ERROR] Transactions2012.xml - Line 118 has invalid amount of money
+[2019-06-26T14:09:33.766] [ERROR] Transactions2012.xml - Line 119 has invalid amount of money
+[2019-06-26T14:09:33.768] [ERROR] Transactions2012.xml - Line 120 has invalid amount of money
+[2019-06-26T14:09:33.770] [ERROR] Transactions2012.xml - Line 121 has invalid amount of money
+[2019-06-26T14:09:33.771] [ERROR] Transactions2012.xml - Line 122 has invalid amount of money
+[2019-06-26T14:09:33.772] [ERROR] Transactions2012.xml - Line 123 has invalid amount of money
+[2019-06-26T14:09:33.773] [ERROR] Transactions2012.xml - Line 124 has invalid amount of money
+[2019-06-26T14:09:33.775] [ERROR] Transactions2012.xml - Line 125 has invalid amount of money
+[2019-06-26T14:09:33.776] [ERROR] Transactions2012.xml - Line 126 has invalid amount of money
+[2019-06-26T14:09:33.778] [ERROR] Transactions2012.xml - Line 127 has invalid amount of money
+[2019-06-26T14:09:33.779] [ERROR] Transactions2012.xml - Line 128 has invalid amount of money
+[2019-06-26T14:09:33.781] [ERROR] Transactions2012.xml - Line 129 has invalid amount of money
+[2019-06-26T14:09:33.782] [ERROR] Transactions2012.xml - Line 130 has invalid amount of money
+[2019-06-26T14:09:33.784] [ERROR] Transactions2012.xml - Line 131 has invalid amount of money
+[2019-06-26T14:09:33.785] [ERROR] Transactions2012.xml - Line 132 has invalid amount of money
+[2019-06-26T14:09:33.786] [ERROR] Transactions2012.xml - Line 133 has invalid amount of money
+[2019-06-26T14:09:33.788] [ERROR] Transactions2012.xml - Line 134 has invalid amount of money
+[2019-06-26T14:09:33.789] [ERROR] Transactions2012.xml - Line 135 has invalid amount of money
+[2019-06-26T14:09:33.792] [ERROR] Transactions2012.xml - Line 136 has invalid amount of money
+[2019-06-26T14:09:33.796] [ERROR] Transactions2012.xml - Line 137 has invalid amount of money
+[2019-06-26T14:09:33.797] [ERROR] Transactions2012.xml - Line 138 has invalid amount of money
+[2019-06-26T14:09:33.798] [ERROR] Transactions2012.xml - Line 139 has invalid amount of money
+[2019-06-26T14:09:33.799] [ERROR] Transactions2012.xml - Line 140 has invalid amount of money
+[2019-06-26T14:09:33.801] [ERROR] Transactions2012.xml - Line 141 has invalid amount of money
+[2019-06-26T14:09:33.802] [ERROR] Transactions2012.xml - Line 142 has invalid amount of money
+[2019-06-26T14:09:33.803] [ERROR] Transactions2012.xml - Line 143 has invalid amount of money
+[2019-06-26T14:09:33.805] [ERROR] Transactions2012.xml - Line 144 has invalid amount of money
+[2019-06-26T14:09:33.806] [ERROR] Transactions2012.xml - Line 145 has invalid amount of money
+[2019-06-26T14:09:33.807] [ERROR] Transactions2012.xml - Line 146 has invalid amount of money
+[2019-06-26T14:09:33.808] [ERROR] Transactions2012.xml - Line 147 has invalid amount of money
+[2019-06-26T14:09:33.809] [ERROR] Transactions2012.xml - Line 148 has invalid amount of money
+[2019-06-26T14:09:33.810] [ERROR] Transactions2012.xml - Line 149 has invalid amount of money
+[2019-06-26T14:09:40.181] [INFO] Transactions2014.csv - Starts reading from Transactions2014.csv
+[2019-06-26T14:09:40.201] [INFO] DodgyTransactions2015.csv - Starts reading from DodgyTransactions2015.csv
+[2019-06-26T14:09:40.204] [ERROR] DodgyTransactions2015.csv - Line 28 has invalid amount of money
+[2019-06-26T14:09:40.213] [ERROR] DodgyTransactions2015.csv - Line 52 has invalid date
+[2019-06-26T14:09:40.214] [INFO] Transactions2013.json - Starts reading from Transactions2013.json
+[2019-06-26T14:09:40.228] [INFO] Transactions2012.xml - Starts reading from Transactions2012.xml
+[2019-06-26T14:09:40.270] [ERROR] Transactions2012.xml - Line 1 has invalid amount of money
+[2019-06-26T14:09:40.272] [ERROR] Transactions2012.xml - Line 2 has invalid amount of money
+[2019-06-26T14:09:40.273] [ERROR] Transactions2012.xml - Line 3 has invalid amount of money
+[2019-06-26T14:09:40.273] [ERROR] Transactions2012.xml - Line 4 has invalid amount of money
+[2019-06-26T14:09:40.274] [ERROR] Transactions2012.xml - Line 5 has invalid amount of money
+[2019-06-26T14:09:40.275] [ERROR] Transactions2012.xml - Line 6 has invalid amount of money
+[2019-06-26T14:09:40.276] [ERROR] Transactions2012.xml - Line 7 has invalid amount of money
+[2019-06-26T14:09:40.277] [ERROR] Transactions2012.xml - Line 8 has invalid amount of money
+[2019-06-26T14:09:40.278] [ERROR] Transactions2012.xml - Line 9 has invalid amount of money
+[2019-06-26T14:09:40.279] [ERROR] Transactions2012.xml - Line 10 has invalid amount of money
+[2019-06-26T14:09:40.279] [ERROR] Transactions2012.xml - Line 11 has invalid amount of money
+[2019-06-26T14:09:40.280] [ERROR] Transactions2012.xml - Line 12 has invalid amount of money
+[2019-06-26T14:09:40.281] [ERROR] Transactions2012.xml - Line 13 has invalid amount of money
+[2019-06-26T14:09:40.282] [ERROR] Transactions2012.xml - Line 14 has invalid amount of money
+[2019-06-26T14:09:40.283] [ERROR] Transactions2012.xml - Line 15 has invalid amount of money
+[2019-06-26T14:09:40.284] [ERROR] Transactions2012.xml - Line 16 has invalid amount of money
+[2019-06-26T14:09:40.285] [ERROR] Transactions2012.xml - Line 17 has invalid amount of money
+[2019-06-26T14:09:40.286] [ERROR] Transactions2012.xml - Line 18 has invalid amount of money
+[2019-06-26T14:09:40.287] [ERROR] Transactions2012.xml - Line 19 has invalid amount of money
+[2019-06-26T14:09:40.288] [ERROR] Transactions2012.xml - Line 20 has invalid amount of money
+[2019-06-26T14:09:40.289] [ERROR] Transactions2012.xml - Line 21 has invalid amount of money
+[2019-06-26T14:09:40.290] [ERROR] Transactions2012.xml - Line 22 has invalid amount of money
+[2019-06-26T14:09:40.291] [ERROR] Transactions2012.xml - Line 23 has invalid amount of money
+[2019-06-26T14:09:40.292] [ERROR] Transactions2012.xml - Line 24 has invalid amount of money
+[2019-06-26T14:09:40.293] [ERROR] Transactions2012.xml - Line 25 has invalid amount of money
+[2019-06-26T14:09:40.294] [ERROR] Transactions2012.xml - Line 26 has invalid amount of money
+[2019-06-26T14:09:40.295] [ERROR] Transactions2012.xml - Line 27 has invalid amount of money
+[2019-06-26T14:09:40.296] [ERROR] Transactions2012.xml - Line 28 has invalid amount of money
+[2019-06-26T14:09:40.297] [ERROR] Transactions2012.xml - Line 29 has invalid amount of money
+[2019-06-26T14:09:40.298] [ERROR] Transactions2012.xml - Line 30 has invalid amount of money
+[2019-06-26T14:09:40.298] [ERROR] Transactions2012.xml - Line 31 has invalid amount of money
+[2019-06-26T14:09:40.299] [ERROR] Transactions2012.xml - Line 32 has invalid amount of money
+[2019-06-26T14:09:40.300] [ERROR] Transactions2012.xml - Line 33 has invalid amount of money
+[2019-06-26T14:09:40.302] [ERROR] Transactions2012.xml - Line 34 has invalid amount of money
+[2019-06-26T14:09:40.303] [ERROR] Transactions2012.xml - Line 35 has invalid amount of money
+[2019-06-26T14:09:40.304] [ERROR] Transactions2012.xml - Line 36 has invalid amount of money
+[2019-06-26T14:09:40.305] [ERROR] Transactions2012.xml - Line 37 has invalid amount of money
+[2019-06-26T14:09:40.306] [ERROR] Transactions2012.xml - Line 38 has invalid amount of money
+[2019-06-26T14:09:40.307] [ERROR] Transactions2012.xml - Line 39 has invalid amount of money
+[2019-06-26T14:09:40.307] [ERROR] Transactions2012.xml - Line 40 has invalid amount of money
+[2019-06-26T14:09:40.308] [ERROR] Transactions2012.xml - Line 41 has invalid amount of money
+[2019-06-26T14:09:40.309] [ERROR] Transactions2012.xml - Line 42 has invalid amount of money
+[2019-06-26T14:09:40.310] [ERROR] Transactions2012.xml - Line 43 has invalid amount of money
+[2019-06-26T14:09:40.311] [ERROR] Transactions2012.xml - Line 44 has invalid amount of money
+[2019-06-26T14:09:40.312] [ERROR] Transactions2012.xml - Line 45 has invalid amount of money
+[2019-06-26T14:09:40.313] [ERROR] Transactions2012.xml - Line 46 has invalid amount of money
+[2019-06-26T14:09:40.315] [ERROR] Transactions2012.xml - Line 47 has invalid amount of money
+[2019-06-26T14:09:40.316] [ERROR] Transactions2012.xml - Line 48 has invalid amount of money
+[2019-06-26T14:09:40.317] [ERROR] Transactions2012.xml - Line 49 has invalid amount of money
+[2019-06-26T14:09:40.318] [ERROR] Transactions2012.xml - Line 50 has invalid amount of money
+[2019-06-26T14:09:40.319] [ERROR] Transactions2012.xml - Line 51 has invalid amount of money
+[2019-06-26T14:09:40.320] [ERROR] Transactions2012.xml - Line 52 has invalid amount of money
+[2019-06-26T14:09:40.321] [ERROR] Transactions2012.xml - Line 53 has invalid amount of money
+[2019-06-26T14:09:40.322] [ERROR] Transactions2012.xml - Line 54 has invalid amount of money
+[2019-06-26T14:09:40.324] [ERROR] Transactions2012.xml - Line 55 has invalid amount of money
+[2019-06-26T14:09:40.325] [ERROR] Transactions2012.xml - Line 56 has invalid amount of money
+[2019-06-26T14:09:40.326] [ERROR] Transactions2012.xml - Line 57 has invalid amount of money
+[2019-06-26T14:09:40.327] [ERROR] Transactions2012.xml - Line 58 has invalid amount of money
+[2019-06-26T14:09:40.328] [ERROR] Transactions2012.xml - Line 59 has invalid amount of money
+[2019-06-26T14:09:40.329] [ERROR] Transactions2012.xml - Line 60 has invalid amount of money
+[2019-06-26T14:09:40.331] [ERROR] Transactions2012.xml - Line 61 has invalid amount of money
+[2019-06-26T14:09:40.332] [ERROR] Transactions2012.xml - Line 62 has invalid amount of money
+[2019-06-26T14:09:40.333] [ERROR] Transactions2012.xml - Line 63 has invalid amount of money
+[2019-06-26T14:09:40.334] [ERROR] Transactions2012.xml - Line 64 has invalid amount of money
+[2019-06-26T14:09:40.335] [ERROR] Transactions2012.xml - Line 65 has invalid amount of money
+[2019-06-26T14:09:40.336] [ERROR] Transactions2012.xml - Line 66 has invalid amount of money
+[2019-06-26T14:09:40.337] [ERROR] Transactions2012.xml - Line 67 has invalid amount of money
+[2019-06-26T14:09:40.338] [ERROR] Transactions2012.xml - Line 68 has invalid amount of money
+[2019-06-26T14:09:40.339] [ERROR] Transactions2012.xml - Line 69 has invalid amount of money
+[2019-06-26T14:09:40.340] [ERROR] Transactions2012.xml - Line 70 has invalid amount of money
+[2019-06-26T14:09:40.341] [ERROR] Transactions2012.xml - Line 71 has invalid amount of money
+[2019-06-26T14:09:40.342] [ERROR] Transactions2012.xml - Line 72 has invalid amount of money
+[2019-06-26T14:09:40.343] [ERROR] Transactions2012.xml - Line 73 has invalid amount of money
+[2019-06-26T14:09:40.344] [ERROR] Transactions2012.xml - Line 74 has invalid amount of money
+[2019-06-26T14:09:40.345] [ERROR] Transactions2012.xml - Line 75 has invalid amount of money
+[2019-06-26T14:09:40.346] [ERROR] Transactions2012.xml - Line 76 has invalid amount of money
+[2019-06-26T14:09:40.347] [ERROR] Transactions2012.xml - Line 77 has invalid amount of money
+[2019-06-26T14:09:40.348] [ERROR] Transactions2012.xml - Line 78 has invalid amount of money
+[2019-06-26T14:09:40.349] [ERROR] Transactions2012.xml - Line 79 has invalid amount of money
+[2019-06-26T14:09:40.349] [ERROR] Transactions2012.xml - Line 80 has invalid amount of money
+[2019-06-26T14:09:40.350] [ERROR] Transactions2012.xml - Line 81 has invalid amount of money
+[2019-06-26T14:09:40.351] [ERROR] Transactions2012.xml - Line 82 has invalid amount of money
+[2019-06-26T14:09:40.352] [ERROR] Transactions2012.xml - Line 83 has invalid amount of money
+[2019-06-26T14:09:40.353] [ERROR] Transactions2012.xml - Line 84 has invalid amount of money
+[2019-06-26T14:09:40.354] [ERROR] Transactions2012.xml - Line 85 has invalid amount of money
+[2019-06-26T14:09:40.355] [ERROR] Transactions2012.xml - Line 86 has invalid amount of money
+[2019-06-26T14:09:40.357] [ERROR] Transactions2012.xml - Line 87 has invalid amount of money
+[2019-06-26T14:09:40.359] [ERROR] Transactions2012.xml - Line 88 has invalid amount of money
+[2019-06-26T14:09:40.360] [ERROR] Transactions2012.xml - Line 89 has invalid amount of money
+[2019-06-26T14:09:40.361] [ERROR] Transactions2012.xml - Line 90 has invalid amount of money
+[2019-06-26T14:09:40.362] [ERROR] Transactions2012.xml - Line 91 has invalid amount of money
+[2019-06-26T14:09:40.363] [ERROR] Transactions2012.xml - Line 92 has invalid amount of money
+[2019-06-26T14:09:40.364] [ERROR] Transactions2012.xml - Line 93 has invalid amount of money
+[2019-06-26T14:09:40.365] [ERROR] Transactions2012.xml - Line 94 has invalid amount of money
+[2019-06-26T14:09:40.366] [ERROR] Transactions2012.xml - Line 95 has invalid amount of money
+[2019-06-26T14:09:40.367] [ERROR] Transactions2012.xml - Line 96 has invalid amount of money
+[2019-06-26T14:09:40.368] [ERROR] Transactions2012.xml - Line 97 has invalid amount of money
+[2019-06-26T14:09:40.369] [ERROR] Transactions2012.xml - Line 98 has invalid amount of money
+[2019-06-26T14:09:40.370] [ERROR] Transactions2012.xml - Line 99 has invalid amount of money
+[2019-06-26T14:09:40.371] [ERROR] Transactions2012.xml - Line 100 has invalid amount of money
+[2019-06-26T14:09:40.372] [ERROR] Transactions2012.xml - Line 101 has invalid amount of money
+[2019-06-26T14:09:40.373] [ERROR] Transactions2012.xml - Line 102 has invalid amount of money
+[2019-06-26T14:09:40.374] [ERROR] Transactions2012.xml - Line 103 has invalid amount of money
+[2019-06-26T14:09:40.376] [ERROR] Transactions2012.xml - Line 104 has invalid amount of money
+[2019-06-26T14:09:40.377] [ERROR] Transactions2012.xml - Line 105 has invalid amount of money
+[2019-06-26T14:09:40.378] [ERROR] Transactions2012.xml - Line 106 has invalid amount of money
+[2019-06-26T14:09:40.378] [ERROR] Transactions2012.xml - Line 107 has invalid amount of money
+[2019-06-26T14:09:40.379] [ERROR] Transactions2012.xml - Line 108 has invalid amount of money
+[2019-06-26T14:09:40.380] [ERROR] Transactions2012.xml - Line 109 has invalid amount of money
+[2019-06-26T14:09:40.381] [ERROR] Transactions2012.xml - Line 110 has invalid amount of money
+[2019-06-26T14:09:40.382] [ERROR] Transactions2012.xml - Line 111 has invalid amount of money
+[2019-06-26T14:09:40.384] [ERROR] Transactions2012.xml - Line 112 has invalid amount of money
+[2019-06-26T14:09:40.385] [ERROR] Transactions2012.xml - Line 113 has invalid amount of money
+[2019-06-26T14:09:40.387] [ERROR] Transactions2012.xml - Line 114 has invalid amount of money
+[2019-06-26T14:09:40.388] [ERROR] Transactions2012.xml - Line 115 has invalid amount of money
+[2019-06-26T14:09:40.389] [ERROR] Transactions2012.xml - Line 116 has invalid amount of money
+[2019-06-26T14:09:40.390] [ERROR] Transactions2012.xml - Line 117 has invalid amount of money
+[2019-06-26T14:09:40.391] [ERROR] Transactions2012.xml - Line 118 has invalid amount of money
+[2019-06-26T14:09:40.392] [ERROR] Transactions2012.xml - Line 119 has invalid amount of money
+[2019-06-26T14:09:40.393] [ERROR] Transactions2012.xml - Line 120 has invalid amount of money
+[2019-06-26T14:09:40.395] [ERROR] Transactions2012.xml - Line 121 has invalid amount of money
+[2019-06-26T14:09:40.396] [ERROR] Transactions2012.xml - Line 122 has invalid amount of money
+[2019-06-26T14:09:40.397] [ERROR] Transactions2012.xml - Line 123 has invalid amount of money
+[2019-06-26T14:09:40.398] [ERROR] Transactions2012.xml - Line 124 has invalid amount of money
+[2019-06-26T14:09:40.399] [ERROR] Transactions2012.xml - Line 125 has invalid amount of money
+[2019-06-26T14:09:40.400] [ERROR] Transactions2012.xml - Line 126 has invalid amount of money
+[2019-06-26T14:09:40.402] [ERROR] Transactions2012.xml - Line 127 has invalid amount of money
+[2019-06-26T14:09:40.404] [ERROR] Transactions2012.xml - Line 128 has invalid amount of money
+[2019-06-26T14:09:40.405] [ERROR] Transactions2012.xml - Line 129 has invalid amount of money
+[2019-06-26T14:09:40.406] [ERROR] Transactions2012.xml - Line 130 has invalid amount of money
+[2019-06-26T14:09:40.408] [ERROR] Transactions2012.xml - Line 131 has invalid amount of money
+[2019-06-26T14:09:40.409] [ERROR] Transactions2012.xml - Line 132 has invalid amount of money
+[2019-06-26T14:09:40.410] [ERROR] Transactions2012.xml - Line 133 has invalid amount of money
+[2019-06-26T14:09:40.412] [ERROR] Transactions2012.xml - Line 134 has invalid amount of money
+[2019-06-26T14:09:40.413] [ERROR] Transactions2012.xml - Line 135 has invalid amount of money
+[2019-06-26T14:09:40.414] [ERROR] Transactions2012.xml - Line 136 has invalid amount of money
+[2019-06-26T14:09:40.415] [ERROR] Transactions2012.xml - Line 137 has invalid amount of money
+[2019-06-26T14:09:40.417] [ERROR] Transactions2012.xml - Line 138 has invalid amount of money
+[2019-06-26T14:09:40.418] [ERROR] Transactions2012.xml - Line 139 has invalid amount of money
+[2019-06-26T14:09:40.420] [ERROR] Transactions2012.xml - Line 140 has invalid amount of money
+[2019-06-26T14:09:40.421] [ERROR] Transactions2012.xml - Line 141 has invalid amount of money
+[2019-06-26T14:09:40.423] [ERROR] Transactions2012.xml - Line 142 has invalid amount of money
+[2019-06-26T14:09:40.424] [ERROR] Transactions2012.xml - Line 143 has invalid amount of money
+[2019-06-26T14:09:40.425] [ERROR] Transactions2012.xml - Line 144 has invalid amount of money
+[2019-06-26T14:09:40.426] [ERROR] Transactions2012.xml - Line 145 has invalid amount of money
+[2019-06-26T14:09:40.428] [ERROR] Transactions2012.xml - Line 146 has invalid amount of money
+[2019-06-26T14:09:40.429] [ERROR] Transactions2012.xml - Line 147 has invalid amount of money
+[2019-06-26T14:09:40.430] [ERROR] Transactions2012.xml - Line 148 has invalid amount of money
+[2019-06-26T14:09:40.431] [ERROR] Transactions2012.xml - Line 149 has invalid amount of money
+[2019-06-26T14:10:08.439] [INFO] Transactions2014.csv - Starts reading from Transactions2014.csv
+[2019-06-26T14:10:08.461] [INFO] DodgyTransactions2015.csv - Starts reading from DodgyTransactions2015.csv
+[2019-06-26T14:10:08.465] [ERROR] DodgyTransactions2015.csv - Line 28 has invalid amount of money
+[2019-06-26T14:10:08.473] [ERROR] DodgyTransactions2015.csv - Line 52 has invalid date
+[2019-06-26T14:10:08.475] [INFO] Transactions2013.json - Starts reading from Transactions2013.json
+[2019-06-26T14:10:08.490] [INFO] Transactions2012.xml - Starts reading from Transactions2012.xml
+[2019-06-26T14:10:39.947] [INFO] Transactions2014.csv - Starts reading from Transactions2014.csv
+[2019-06-26T14:10:39.968] [INFO] DodgyTransactions2015.csv - Starts reading from DodgyTransactions2015.csv
+[2019-06-26T14:10:39.971] [ERROR] DodgyTransactions2015.csv - Line 28 has invalid amount of money
+[2019-06-26T14:10:39.980] [ERROR] DodgyTransactions2015.csv - Line 52 has invalid date
+[2019-06-26T14:10:39.981] [INFO] Transactions2013.json - Starts reading from Transactions2013.json
+[2019-06-26T14:10:40.002] [INFO] Transactions2012.xml - Starts reading from Transactions2012.xml
+[2019-06-26T14:11:07.728] [INFO] Transactions2014.csv - Starts reading from Transactions2014.csv
+[2019-06-26T14:11:07.749] [INFO] DodgyTransactions2015.csv - Starts reading from DodgyTransactions2015.csv
+[2019-06-26T14:11:07.752] [ERROR] DodgyTransactions2015.csv - Line 28 has invalid amount of money
+[2019-06-26T14:11:07.761] [ERROR] DodgyTransactions2015.csv - Line 52 has invalid date
+[2019-06-26T14:11:07.762] [INFO] Transactions2013.json - Starts reading from Transactions2013.json
+[2019-06-26T14:11:07.776] [INFO] Transactions2012.xml - Starts reading from Transactions2012.xml
+[2019-06-26T14:11:27.271] [INFO] Transactions2014.csv - Starts reading from Transactions2014.csv
+[2019-06-26T14:11:27.292] [INFO] DodgyTransactions2015.csv - Starts reading from DodgyTransactions2015.csv
+[2019-06-26T14:11:27.295] [ERROR] DodgyTransactions2015.csv - Line 28 has invalid amount of money
+[2019-06-26T14:11:27.305] [ERROR] DodgyTransactions2015.csv - Line 52 has invalid date
+[2019-06-26T14:11:27.307] [INFO] Transactions2013.json - Starts reading from Transactions2013.json
+[2019-06-26T14:11:27.322] [INFO] Transactions2012.xml - Starts reading from Transactions2012.xml
+[2019-06-26T14:11:29.662] [INFO] Transactions2014.csv - Starts reading from Transactions2014.csv
+[2019-06-26T14:11:29.683] [INFO] DodgyTransactions2015.csv - Starts reading from DodgyTransactions2015.csv
+[2019-06-26T14:11:29.686] [ERROR] DodgyTransactions2015.csv - Line 28 has invalid amount of money
+[2019-06-26T14:11:29.698] [ERROR] DodgyTransactions2015.csv - Line 52 has invalid date
+[2019-06-26T14:11:29.700] [INFO] Transactions2013.json - Starts reading from Transactions2013.json
+[2019-06-26T14:11:29.718] [INFO] Transactions2012.xml - Starts reading from Transactions2012.xml
+[2019-06-26T14:16:38.699] [INFO] Transactions2014.csv - Starts reading from Transactions2014.csv
+[2019-06-26T14:16:38.720] [INFO] DodgyTransactions2015.csv - Starts reading from DodgyTransactions2015.csv
+[2019-06-26T14:16:38.723] [ERROR] DodgyTransactions2015.csv - Line 28 has invalid amount of money
+[2019-06-26T14:16:38.732] [ERROR] DodgyTransactions2015.csv - Line 52 has invalid date
+[2019-06-26T14:16:38.733] [INFO] Transactions2013.json - Starts reading from Transactions2013.json
+[2019-06-26T14:16:38.748] [INFO] Transactions2012.xml - Starts reading from Transactions2012.xml
+[2019-06-26T14:24:46.702] [INFO] Transactions2014.csv - Starts reading from Transactions2014.csv
+[2019-06-26T14:24:46.724] [INFO] DodgyTransactions2015.csv - Starts reading from DodgyTransactions2015.csv
+[2019-06-26T14:24:46.727] [ERROR] DodgyTransactions2015.csv - Line 28 has invalid amount of money
+[2019-06-26T14:24:46.737] [ERROR] DodgyTransactions2015.csv - Line 52 has invalid date
+[2019-06-26T14:24:46.738] [INFO] Transactions2013.json - Starts reading from Transactions2013.json
+[2019-06-26T14:24:46.761] [INFO] Transactions2012.xml - Starts reading from Transactions2012.xml
