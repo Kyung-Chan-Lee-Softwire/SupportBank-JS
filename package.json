@@ -11,7 +11,7 @@
   "dependencies": {
     "csv": "^5.1.1",
     "fs": "0.0.1-security",
-    "log4js": "^4.4.0",
+    "log4js": "^6.4.0",
     "moment": "^2.24.0",
     "readline-sync": "^1.4.9",
     "xml-js": "^1.6.11",
